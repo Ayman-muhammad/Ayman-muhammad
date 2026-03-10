@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ekalale Lokaale Simon
+# 👋 Hi, I'm Ekalale Lokaale 
 
 **Full-Stack Software Engineer | Backend & AI-Driven Applications**  
 Computer Science Student | Building **scalable, maintainable, and ethical software**
