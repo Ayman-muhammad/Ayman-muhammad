@@ -50,7 +50,7 @@ I am a **backend-focused full-stack engineer** with hands-on experience designin
 - Ensured **scalability** by modularizing services and planning API-based cloud deployment.  
 
 **Tech Stack:** PHP / Node.js / AI / DOCX & PDF Processing  
-**Live Repo:** [GitHub](https://github.com/Ayman-muhammad/scholarfix)  
+**Live Repo:** [GitHub](https://github.com/Ayman-muhammad/scholarFIX)  
 **Demo:**  
 <img src="https://via.placeholder.com/600x300.png?text=ScholarFix+Live+Demo" alt="ScholarFix Demo" width="600">
 
