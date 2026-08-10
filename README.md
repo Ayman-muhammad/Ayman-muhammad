@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README — Senior Full‑Stack Architect
-  Copy this entire block into your profile README.md
+  Updated to reflect actual repositories and 23+ years of experience.
 -->
 
 <h1 align="center">👋 Ekalale Lokaale</h1>
@@ -33,8 +33,8 @@ I combine deep technical mastery with business strategy — translating complex 
 
 ## 🚀 Featured Projects
 
-### [ScholarFix — AI Document Refinement Platform](https://github.com/Ayman-muhammad/scholarfix)
-> *PHP, Node.js, Python, AI/NLP, RabbitMQ, Redis*
+### [ScholarFIX — AI Document Refinement Platform](https://github.com/Ayman-muhammad/ScholarFIX)
+> *Python, PHP, Node.js, AI/NLP, RabbitMQ, Redis*
 
 Orchestrated an end‑to‑end document processing pipeline handling **10,000+ documents/day** with sub‑2‑minute turnaround. Designed a 4‑tier event‑driven architecture (ingestion → parsing → enrichment → delivery) with pluggable parsers for 15+ formats.
 
@@ -45,23 +45,10 @@ Orchestrated an end‑to‑end document processing pipeline handling **10,000+ d
 
 ---
 
-### [Monexia — Enterprise Financial Analytics](https://github.com/Ayman-muhammad/monexia)
-> *Kotlin, Spring Boot, AWS, Kafka, ClickHouse*
-
-Architected a financial intelligence platform serving **200+ enterprise clients** with **10M+ daily transactions**. Built with event‑sourcing, CQRS, and offline‑first mobile sync.
-
-- 💰 Real‑time fraud detection with **sub‑100ms** decision latency – improved detection by **30%**
-- 📉 Multi‑currency ledger with ACID guarantees across distributed services (Saga pattern)
-- 📊 Data lake (S3 + Athena + QuickSight) reduced ad‑hoc reporting from **6h → 15m**
-- 🔁 Disaster recovery with **RPO < 5 min**, **RTO < 15 min**
-- 📈 Supported **400% user growth** without infrastructure redesign
-
----
-
-### [Ayglobe Ta'alim Nexa — Educational Resource Platform](https://github.com/Ayman-muhammad/ayglobe)
+### [Ayglobe Ta'alim Nexa — Educational Resource Platform](https://github.com/Ayman-muhammad/AyglobeTa-allimNexa)
 > *PHP, Laravel, MySQL, Redis, Elasticsearch*
 
-Re‑architected a national educational platform serving **250,000+ students** and **8,000+ institutions** — from monolithic to modular monolith with clear domain boundaries.
+Designed and developed a full‑stack educational platform for Kenyan and international university students to share academic resources and job opportunities. Re‑architected to serve **250,000+ students** and **8,000+ institutions**.
 
 - 🔍 High‑performance search (Elasticsearch) with faceted filtering across 50+ resource dimensions
 - 🤝 Real‑time recommendation engine → increased resource engagement by **35%**
@@ -70,16 +57,64 @@ Re‑architected a national educational platform serving **250,000+ students** a
 
 ---
 
-### [Hospital Management System](https://github.com/Ayman-muhammad/hms)
-> *Django, PostgreSQL, Redis, Docker, Kubernetes*
+### [Hospital Management System](https://github.com/Ayman-muhammad/Hospital-Management-System) · [Django Version](https://github.com/Ayman-muhammad/Django-hospital-management-system-)
+> *PHP, MySQL, Django, PostgreSQL, Redis, Docker, Kubernetes*
 
-Architected a comprehensive platform for a **500‑bed hospital network** with **50,000+ patient records**, HIPAA‑compliant and hybrid cloud (Azure + on‑prem).
+Architected a comprehensive platform for a **500‑bed hospital network** with **50,000+ patient records**, HIPAA‑compliant and hybrid cloud (Azure + on‑prem). Delivered both PHP and Django implementations.
 
 - 🏥 RBAC with **15+ roles** and **200+ permissions** – fine‑grained access control
 - 📅 Appointment scheduling with constraint‑solving algorithms → resource utilisation **+40%**
 - 📜 Immutable audit trail with tamper‑evident logging
 - 💾 Sharding by region & time‑series partitioning; cached reads reduced DB load by **65%**
 - 📈 Reduced patient wait times by **28%** ; saved **$200K+** annually by eliminating billing errors
+
+---
+
+### [Al‑Bayān AI — Quran Companion](https://github.com/Ayman-muhammad/Al-Bayan-Ai)
+> *TypeScript, AI/NLP, Semantic Search*
+
+Built an AI‑powered search companion for the Quran, enabling theme‑based exploration, contextual understanding, and intelligent topic clustering. Designed with a modern TypeScript stack for real‑time, responsive interaction.
+
+- 🧠 Implemented semantic search using embeddings for verse‑level and theme‑level retrieval
+- 📖 Developed a topic modelling engine to discover and surface underlying themes across Surahs
+- ⚡ Optimised for low‑latency responses with caching and pre‑computed indexes
+- 🌍 Multi‑language support with transliteration and translation integration
+
+---
+
+### [ThinkTank — Refinement with Human Insight](https://github.com/Ayman-muhammad/ThinkTank)
+> *TypeScript, AI, Human‑in‑the‑loop*
+
+A collaborative platform that refines AI‑generated responses through human feedback loops. Combines automated reasoning with expert curation to produce high‑quality, context‑aware outputs.
+
+- 🔄 Human‑in‑the‑loop pipeline for iterative response improvement
+- 📊 Feedback analytics dashboard to measure refinement effectiveness
+- 🔌 Modular architecture allowing plug‑in of different LLM backends
+- 🛡️ Built with privacy‑first data handling and audit trails
+
+---
+
+### [BurnoutAI — Financial Wellness Monitor](https://github.com/Ayman-muhammad/BurnoutAi)
+> *TypeScript, Financial Analytics, AI*
+
+An AI that warns users about their financial stability or “leash” by analysing spending patterns, savings trends, and risk indicators. Designed to promote proactive financial health.
+
+- 📉 Real‑time financial risk scoring using anomaly detection on transaction streams
+- 📱 Mobile‑first responsive dashboard built with React/Next.js
+- 🔔 Proactive alerts and personalised recommendations for improved budgeting
+- 🧩 Extensible to integrate with banking APIs and open‑finance platforms
+
+---
+
+### [Nexus‑AEG — AI Ethics Governance](https://github.com/Ayman-muhammad/nexus-aeg)
+> *Python, AI Governance, Compliance*
+
+A framework for governing AI‑assisted features, including model versioning, bias detection, drift monitoring, and automated compliance reporting. Designed to operationalise responsible AI at scale.
+
+- 📦 Model registry with version control and rollback capabilities
+- 🔍 Bias and fairness evaluation suite with automated test generation
+- 📈 Drift detection (concept and data drift) with alerting and retraining triggers
+- 📋 Automated compliance documentation generation for regulatory audits
 
 ---
 
@@ -144,7 +179,7 @@ Architected a comprehensive platform for a **500‑bed hospital network** with *
 
 - 💼 **LinkedIn:** [ekalale-lokaale](https://linkedin.com/in/ekalale-lokaale)  
 - 📧 **Email:** [ayman11muhammad@gmail.com](mailto:ayman11muhammad@gmail.com)  
-- 🌐 **Blog:** [ekalale.tech](https://ekalale.tech)  
+- 🌐 **Blog:** [ekalale.tech](https://ekalale.tech) (coming soon)  
 - 🐙 **GitHub:** [Ayman-muhammad](https://github.com/Ayman-muhammad)  
 
 ---
