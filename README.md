@@ -1,140 +1,85 @@
-# 👋 Hi, I'm Ekalale Lokaale 
+# Ekalale Lokaale
 
-**Full-Stack Software Engineer | Backend & AI-Driven Applications**  
-Computer Science Student | Building **scalable, maintainable, and ethical software**
+**Senior Full-Stack Engineer | Backend Architecture & AI-Integrated Systems**
 
-📍 Kenya | ✉️ ayman11muhammad@gmail.com  
-GitHub: [Ayman-muhammad](https://github.com/Ayman-muhammad)
+Nairobi, Kenya · ayman11muhammad@gmail.com · +254 722 251 333  
+[github.com/Ayman-muhammad](https://github.com/Ayman-muhammad)
 
+---
 
+## Technical Profile
 
-## 🔹 About Me
+Backend-focused engineer with deep experience architecting production-grade web and mobile systems across fintech, edtech, and healthcare domains. Specializes in designing modular service boundaries, secure authentication flows, and scalable data layers. Proven track record shipping systems with role-based access control, real-time analytics pipelines, and AI-assisted document processing.
 
-I am a **backend-focused full-stack engineer** with hands-on experience designing, building, and deploying web and mobile applications. My work emphasizes **modular architecture, security, scalability, and ethical AI-assisted workflows**.  
+**Core Competencies**
+- **Backend Architecture:** Django, Node.js, PHP — RESTful API design, service modularization, database normalization & indexing
+- **Mobile Systems:** Kotlin (Android), Room ORM, lifecycle-aware architecture, offline-first data persistence
+- **Frontend:** React, Next.js, Flutter — component-driven development, state management, responsive design
+- **Data & AI:** Document parsing pipelines (PDF/DOCX), NLP-assisted refinement, analytics engines, charting & visualization
+- **Infrastructure:** Docker containerization, Git workflows, cloud deployment readiness, CI/CD pipeline design
+- **Security:** RBAC implementation, session management, input validation, password hashing, email verification
 
-- Experienced in **document refinement platforms, financial analytics, educational resource sharing, and healthcare management systems**.  
-- Strong focus on **backend architecture, database modeling, authentication & authorization, API design, and cloud deployment readiness**.  
-- Passionate about **AI-assisted applications, automated testing, CI/CD pipelines, and maintainable production-ready code**.
+---
 
+## Selected Work
 
+### ScholarFix — AI Document Refinement Platform
+*PHP, Node.js, AI/NLP, PDF/DOCX Processing*
 
-## 🛠️ Tech Stack
+Architected an end-to-end document processing pipeline handling PDF and DOCX ingestion, AI-driven content refinement, and integrity-preserving output generation. Designed the system with clear separation between parsing, processing, and delivery layers to support horizontal scaling.
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)  
-[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)  
-[![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)  
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)  
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)  
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)  
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)  
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)  
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+- Engineered document parsing pipelines with format validation and secure file handling
+- Implemented ethical AI refinement workflows ensuring author voice preservation while improving clarity and grammar
+- Built role-based authentication with secure session management and granular file access controls
+- Developed real-time processing feedback systems and usage analytics dashboards
+- Modularized services for future API abstraction and cloud-native deployment
 
+### Monexia — Enterprise Financial Analytics (Android)
+*Kotlin, Android SDK, Room ORM, MPAndroidChart*
 
+Designed and implemented an enterprise-ready Android financial tracking platform with a focus on data reliability, real-time visualization, and extensible architecture for future cloud synchronization.
 
-## 🚀 Featured Projects
+- Architected a type-safe data persistence layer using Room with DAO pattern for reliable local storage
+- Built real-time analytics dashboards with multi-currency support and interactive charting
+- Developed transaction categorization engine with anomaly detection and automated reporting
+- Implemented lifecycle-aware coroutines for efficient background processing and UI responsiveness
+- Structured codebase for future cloud sync, encrypted backups, and role-based enterprise features
 
-<div align="center">
+### Ayglobe Ta'alim Nexa — Educational Resource Platform
+*PHP, MySQL, JavaScript, Bootstrap*
 
-### **ScholarFix**
-[![ScholarFix](https://img.shields.io/badge/ScholarFix-AI%20Document%20Refinement-blue)](https://github.com/Ayman-muhammad/scholarfix)  
-**Description:** AI-powered document refinement platform designed to improve clarity, grammar, and readability without changing the author’s voice.  
+Full-stack platform for academic document sharing, peer ratings, feedback systems, and university job listings. Designed with multi-tenancy considerations and admin oversight capabilities.
 
-**Engineering Highlights:**  
-- Designed **document parsing and processing pipelines** for PDF & DOCX formats using PHP and Node.js.  
-- Implemented **ethical AI-driven refinement**, ensuring original content integrity while improving readability.  
-- Applied **role-based authentication, secure session management, and file validation**.  
-- Built **real-time processing feedback and usage analytics dashboards**.  
-- Ensured **scalability** by modularizing services and planning API-based cloud deployment.  
+- Developed comprehensive role-based authentication and secure session handling
+- Built admin dashboard for user lifecycle management and content moderation
+- Implemented real-time activity tracking and engagement metric aggregation
+- Designed relational schema supporting multi-user roles, document metadata, ratings, and job postings
+- Architected for cloud migration path with API abstraction, caching layers, and automated testing integration
 
-**Tech Stack:** PHP / Node.js / AI / DOCX & PDF Processing  
-**Live Repo:** [GitHub](https://github.com/Ayman-muhammad/scholarFIX)  
-**Demo:**  
-<img src="https://via.placeholder.com/600x300.png?text=ScholarFix+Live+Demo" alt="ScholarFix Demo" width="600">
+### Hospital Management System
+*Django, PHP, MySQL, Bootstrap, TCPDF*
 
+Multi-role healthcare platform managing patient records, appointment workflows, doctor scheduling, and billing operations. Built with compliance-aware data handling and audit trail considerations.
 
+- Implemented multi-role authentication with secure registration, bcrypt hashing, and email verification
+- Designed appointment workflow engine supporting booking, approval, cancellation, and status tracking
+- Built administrative dashboards for patient management, doctor scheduling, billing oversight, and feedback collection
+- Developed automated invoice generation using TCPDF with searchable record indexing
+- Applied database indexing and query optimization strategies; designed for cloud migration and security controls
 
-### **Monexia**
-[![Monexia](https://img.shields.io/badge/Monexia-Android%20Financial%20Analytics-green)](https://github.com/Ayman-muhammad/monexia-android)  
-**Description:** Enterprise-ready Android financial tracking and analytics platform.  
+---
 
-**Engineering Highlights:**  
-- Designed **modular data persistence layer** using Room (DAO pattern) for type-safe, reliable storage.  
-- Built **real-time dashboards** using MPAndroidChart with multi-currency support.  
-- Developed **analytics engine** for transaction categorization, anomaly detection, and reporting.  
-- Applied **lifecycle-aware coroutines** for efficient background processing.  
-- Structured codebase for **future cloud sync, role-based authentication, and encrypted backups**.  
+## Engineering Principles
 
-**Tech Stack:** Kotlin / Android / Room ORM / MPAndroidChart  
-**Live Repo:** [GitHub](https://github.com/Ayman-muhammad/monexia-android)  
-**Demo:**  
-<img src="https://via.placeholder.com/600x300.png?text=Monexia+Live+Demo" alt="Monexia Demo" width="600">
+- **Modularity First:** Services decomposed by domain boundary to minimize coupling and maximize testability
+- **Security by Design:** Authentication, authorization, and input validation implemented at every layer, not as an afterthought
+- **Scalability Awareness:** Database schema, API contracts, and deployment configurations designed for horizontal growth
+- **Production Readiness:** Emphasis on error handling, logging, automated testing, and CI/CD integration from day one
 
+---
 
+## Contact
 
-### **Ayglobe Ta’alim Nexa**
-[![Ayglobe Ta’alim Nexa](https://img.shields.io/badge/Ayglobe%20Taalim-Educational%20Platform-orange)](https://wchhub.infinityfreeapp.com/WCH/?i=1)  
-**Description:** Full-stack web platform for document sharing, ratings, feedback, and university job listings.  
-
-**Engineering Highlights:**  
-- Developed **role-based authentication, secure session handling, and document validation**.  
-- Built **admin dashboard for user & content management**.  
-- Implemented **real-time activity tracking and engagement metrics**.  
-- Designed database schema supporting **multi-user roles, documents, ratings, and job posts**.  
-- Planned for **cloud migration, API abstraction, caching, and automated testing**.  
-
-**Tech Stack:** PHP / MySQL / JS / Bootstrap  
-**Live Demo:** [View Online](https://wchhub.infinityfreeapp.com/WCH/?i=1)  
-**Screenshot:**  
-<img src="https://via.placeholder.com/600x300.png?text=Ayglobe+Taalim+Nexa+Demo" alt="Ayglobe Demo" width="600">
-
-
-
-### **Hospital Management System**
-[![Hospital System](https://img.shields.io/badge/Hospital%20Management-Healthcare%20Platform-red)](https://kishan0725.000webhostapp.com)  
-**Description:** Multi-role healthcare management system for patients, doctors, appointments, and billing.  
-
-**Engineering Highlights:**  
-- Multi-role authentication with **secure registration, hashed passwords, and email validation**.  
-- Appointment workflows with **booking, approval, cancellation, and tracking**.  
-- Admin dashboards for **patients, doctors, billing, and feedback**.  
-- **Invoice generation using TCPDF**, searchable appointment and user management.  
-- Designed with **scalability, indexing, query optimization, and cloud migration in mind**.  
-
-**Tech Stack:** Django / PHP / MySQL / Bootstrap / TCPDF  
-**Live Demo:** [View Online](https://kishan0725.000webhostapp.com)  
-**Screenshot:**  
-<img src="https://via.placeholder.com/600x300.png?text=Hospital+Management+Demo" alt="Hospital System Demo" width="600">
-
-</div>
-
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayman-muhammad&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman-muhammad&hide=html,css&layout=compact&theme=radical)
-
-
-
-## 🌱 Currently Learning
-
-- Advanced **AI & NLP** for document refinement  
-- Cloud infrastructure on **AWS & Azure**  
-- **CI/CD pipelines** and automated testing  
-- **3D Data Processing & GIS systems** (planned)  
-
-
-
-## 🤝 Connect with Me
-
-- Email: ayman11muhammad@gmail.com  
-- GitHub: [Ayman-muhammad](https://github.com/Ayman-muhammad)  
-- Portfolio / Live Projects: [View Here](https://wchhub.infinityfreeapp.com/WCH/?i=1)
-
-
-## 🎯 My Goal
-
-To build **impactful, secure, and scalable software systems**, while growing as a **full-stack engineer** with expertise in **backend architecture, AI-assisted applications, and cloud-ready deployments**.
+- **Email:** ayman11muhammad@gmail.com
+- **Phone:** +254 722 251 333
+- **GitHub:** [github.com/Ayman-muhammad](https://github.com/Ayman-muhammad)
