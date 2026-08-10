@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-Architect with **23+ years** of full‑stack engineering leadership, delivering enterprise‑grade platforms in fintech, edtech, healthcare, and AI. I design **horizontally scalable distributed systems**, implement **zero‑trust security frameworks**, and lead cross‑functional teams through complete product lifecycles.
+Architect with **2+ years** of full‑stack engineering leadership, delivering enterprise‑grade platforms in fintech, edtech, healthcare, and AI. I design **horizontally scalable distributed systems**, implement **zero‑trust security frameworks**, and lead cross‑functional teams through complete product lifecycles.
 
 I combine deep technical mastery with business strategy — translating complex requirements into robust architectures that drive measurable outcomes.
 
