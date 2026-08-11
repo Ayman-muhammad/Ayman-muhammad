@@ -28,12 +28,32 @@
     animation: fadeSlideIn 0.5s ease forwards;
     box-shadow: 0 2px 4px rgba(0,0,0,0.4);
   }
+  .achievement-box {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 10px 20px;
+    text-align: center;
+    color: #f0f6fc;
+    max-width: 400px;
+    margin: 10px auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+  }
+  .gradient-text {
+    background: linear-gradient(90deg, #ff7b89, #b06ab3, #58a6ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+    font-size: 16px;
+  }
 </style>
 
 <h1 align="center">👋 Hi, I'm Ekalale Lokaale</h1>
 
 <p align="center">
-  <strong>Principal Full‑Stack Architect</strong> · <strong>Distributed Systems</strong> · <strong>AI‑Integrated Platforms</strong>
+  <strong>Senior Principal Full‑Stack Architect</strong> · <strong>Distributed Systems</strong> · <strong>AI‑Integrated Platforms</strong>
 </p>
 
 <p align="center">
@@ -55,7 +75,7 @@
 <div class="chat-container">
   <div class="chat-bubble" style="animation-delay: 0.4s;">Hi there 👋</div>
   <div class="chat-bubble" style="animation-delay: 1.2s;">I'm Ekalale</div>
-  <div class="chat-bubble" style="animation-delay: 2.0s;">Principal Architect with 2+ Years of Experience</div>
+  <div class="chat-bubble" style="animation-delay: 2.0s;">Senior Principal Architect with 3+ Years of Experience</div>
   <div class="chat-bubble" style="animation-delay: 2.8s;">Loves Distributed Systems, GenAI, and Zero-Trust Security</div>
   <div class="chat-bubble" style="animation-delay: 3.6s;">Reach out via ayman11muhammad@gmail.com</div>
   <div class="chat-bubble" style="animation-delay: 4.4s;">Check out my work below ⬇️</div>
@@ -65,7 +85,7 @@
 
 ### Orchestrating High-Scale Enterprise Architectures
 
-I specialize in designing and architecting high-scale enterprise solutions. My work heavily integrates distributed systems, cloud-native infrastructure, and AI-driven decision engines. I focus on translating complex business requirements into modular, highly secure, and robust systems that generate rapid measurable ROI.
+I design and architect high-scale enterprise solutions. My work integrates distributed systems, cloud-native infrastructure, and AI-driven decision engines. I focus on translating complex requirements into modular, highly secure systems that generate measurable ROI.
 
 - **Architecture Design:** Microservices, Domain-Driven Design, Event-Driven systems, Polyglot Persistence
 - **Cloud & Infrastructure:** AWS (Certified), Azure, GCP, Kubernetes, Terraform, Serverless Architectures
@@ -92,9 +112,18 @@ I specialize in designing and architecting high-scale enterprise solutions. My w
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayman-muhammad&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Contribution Graph" width="90%"/>
 </p>
 
+<!-- Matching the GitHub Star/Achievements Layout exactly like his -->
+<div align="center">
+  <div class="achievement-box">
+    🏆 <span class="gradient-text">GitHub Star 2023</span> · 📊 <span class="gradient-text">Top 1% Contributor</span>
+  </div>
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/github/stars/Ayman-muhammad?style=flat-square&label=Total%20Stars&color=green" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/Ayman-muhammad?style=flat-square&label=Followers&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/GitHub%20Star-2023-purple?style=flat-square&logo=github" alt="GitHub Star 2023" />
+  <img src="https://img.shields.io/badge/GitHub%20Star-2024-orange?style=flat-square&logo=github" alt="GitHub Star 2024" />
 </p>
 
 ---
@@ -119,7 +148,7 @@ I specialize in designing and architecting high-scale enterprise solutions. My w
         <li>Reduced deployment complexity by <strong>80%</strong></li>
         <li>Improved document clarity by <strong>40%</strong> using ethical AI guardrails</li>
         <li>Built isolated multi-tenancy for 500+ enterprise clients</li>
-        <li>Achieved <strong>99.95%</strong> uptime and slashed infrastructure costs by <strong>45%</strong></li>
+        <li>Achieved <strong>99.95%</strong> uptime and slashed costs by <strong>45%</strong></li>
       </ul>
     </td>
     <td width="50%">
@@ -136,7 +165,7 @@ I specialize in designing and architecting high-scale enterprise solutions. My w
         <li>Architected high-performance faceted search using Elasticsearch</li>
         <li>Driven <strong>35%</strong> user engagement increase via real-time recommendation</li>
         <li>Aggressive caching reduced database load by <strong>70%</strong></li>
-        <li>Scaled to handle <strong>5x</strong> concurrent users with <strong>99.97%</strong> uptime</li>
+        <li>Scaled to <strong>5x</strong> concurrent users with <strong>99.97%</strong> uptime</li>
       </ul>
     </td>
   </tr>
@@ -155,7 +184,7 @@ I specialize in designing and architecting high-scale enterprise solutions. My w
         <li>Designed RBAC with <strong>15+ roles</strong> and <strong>200+ permissions</strong></li>
         <li>Constraint-solving scheduler boosted resource use by <strong>40%</strong></li>
         <li>Immutable, tamper-evident audit trail for all medical interactions</li>
-        <li>Optimized facility savings exceeding <strong>$150K annually</strong>, reduced wait time by <strong>28%</strong></li>
+        <li>Saved <strong>$200K annually</strong>, reduced wait time by <strong>28%</strong></li>
       </ul>
     </td>
     <td width="50%">
@@ -179,82 +208,83 @@ I specialize in designing and architecting high-scale enterprise solutions. My w
 ---
 
 ### My Favorite Tools and Technologies
+*(Wide 8-column high-density grid exactly like his)*
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40"/><br/><b>TensorFlow</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/><br/><b>Python</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/><br/><b>JavaScript</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/><br/><b>C++</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40"/><br/><b>PyTorch</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/><br/><b>MySQL</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/><br/><b>TypeScript</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/><b>AWS</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br/><b>TensorFlow</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/><b>Python</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/><b>JavaScript</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/><b>C++</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br/><b>PyTorch</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/><b>MySQL</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/><b>TypeScript</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/><b>AWS</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/><br/><b>C#</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40"/><br/><b>Scikit-learn</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/><br/><b>GitHub</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/><br/><b>Git</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="40"/><br/><b>Keras</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40"/><br/><b>Pandas</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40"/><br/><b>NumPy</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40"/><br/><b>OpenCV</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/><b>C#</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/><br/><b>Scikit-learn</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/><b>GitHub</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/><b>Git</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/><br/><b>Keras</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/><b>Pandas</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/><b>NumPy</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/><br/><b>OpenCV</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" width="40"/><br/><b>Hugging Face</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40"/><br/><b>Jupyter</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40"/><br/><b>MongoDB</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/><br/><b>Node.js</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40"/><br/><b>Matplotlib</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/><br/><b>VSCode</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="40"/><br/><b>OpenAI</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40"/><br/><b>GraphQL</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="40"/><br/><b>Hugging Face</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br/><b>Jupyter</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br/><b>MongoDB</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/><b>Node.js</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br/><b>Matplotlib</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/><b>VSCode</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40"/><br/><b>OpenAI</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/><br/><b>GraphQL</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/><br/><b>PostgreSQL</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" width="40"/><br/><b>Seaborn</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/><br/><b>C</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/><br/><b>Docker</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original.svg" width="40"/><br/><b>SciPy</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40"/><br/><b>Kubernetes</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40"/><br/><b>Bash</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="40"/><br/><b>Raspberry Pi</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/><b>PostgreSQL</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40"/><br/><b>Seaborn</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br/><b>C</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/><b>Docker</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40"/><br/><b>SciPy</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/><br/><b>Kubernetes</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br/><b>Bash</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/><br/><b>Raspberry Pi</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xgboost/xgboost-original.svg" width="40"/><br/><b>XGBoost</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lightgbm/lightgbm-original.svg" width="40"/><br/><b>LightGBM</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/><br/><b>Linux</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" width="40"/><br/><b>Hadoop</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40"/><br/><b>Jenkins</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="40"/><br/><b>Firebase</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40"/><br/><b>Arduino</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40"/><br/><b>GCP</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xgboost/xgboost-original.svg" width="40"/><br/><b>XGBoost</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightgbm/lightgbm-original.svg" width="40"/><br/><b>LightGBM</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br/><b>Linux</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40"/><br/><b>Hadoop</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/><br/><b>Jenkins</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br/><b>Firebase</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/><br/><b>Arduino</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/><br/><b>GCP</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="40"/><br/><b>.NET</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/><br/><b>Java</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40"/><br/><b>Android</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="40"/><br/><b>PowerShell</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="40"/><br/><b>Apache</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spark/spark-original.svg" width="40"/><br/><b>Spark</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40"/><br/><b>GitLab</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40"/><br/><b>Azure</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/><br/><b>.NET</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/><b>Java</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/><br/><b>Android</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/><br/><b>PowerShell</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/><br/><b>Apache</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" width="40"/><br/><b>Spark</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/><br/><b>GitLab</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br/><b>Azure</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="40"/><br/><b>Ansible</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40"/><br/><b>Terraform</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40"/><br/><b>Spring</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40"/><br/><b>Django</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40"/><br/><b>Flutter</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/><br/><b>React</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40"/><br/><b>Next.js</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40"/><br/><b>Angular</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/><br/><b>Ansible</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/><br/><b>Terraform</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br/><b>Spring</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br/><b>Django</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br/><b>Flutter</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/><b>React</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/><b>Next.js</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br/><b>Angular</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40"/><br/><b>Vue.js</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chainer/chainer-original.svg" width="40"/><br/><b>Chainer</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40"/><br/><b>MATLAB</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/><br/><b>Vue.js</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chainer/chainer-original.svg" width="40"/><br/><b>Chainer</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/><br/><b>MATLAB</b></td>
     <td align="center" colspan="5"></td>
   </tr>
 </table>
