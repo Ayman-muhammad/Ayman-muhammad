@@ -50,6 +50,7 @@
   </a>
 </p>
 
+<!-- The ChatGPT thinking/stickey bubbles -->
 <div class="chat-container">
   <div class="chat-bubble" style="animation-delay: 0.4s;">Hi there 👋</div>
   <div class="chat-bubble" style="animation-delay: 1.2s;">I'm Ekalale</div>
@@ -90,15 +91,17 @@ I design and architect high-scale enterprise solutions. My work integrates distr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayman-muhammad&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Contribution Graph" width="90%"/>
 </p>
 
+<!-- Reputation Badges like his -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Ayman-muhammad?style=flat-square&label=Stars&color=green" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/Ayman-muhammad?style=flat-square&label=Total%20Stars&color=green" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/Ayman-muhammad?style=flat-square&label=Followers&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/GitHub%20Star-2023-purple?style=flat-square&logo=github" alt="GitHub Star 2023" />
+  <img src="https://img.shields.io/badge/GitHub%20Star-2024-purple?style=flat-square&logo=github" alt="GitHub Star 2024" />
 </p>
 
 ---
 
 ### Key Enterprise Engineering Cornerstones
+
 *Architectural case studies defined by scale, resilience, and high-impact business logic.*
 
 <table>
@@ -112,12 +115,12 @@ I design and architect high-scale enterprise solutions. My work integrates distr
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>
-      <p>Architected an event-driven microservices pipeline handling <strong>10,000+ documents/day</strong>, enabling a sub-2-minute end-to-end processing turnaround by successfully decoupling a massive monolith.</p>
+      <p>Architected an event-driven microservices pipeline handling <strong>10,000+ documents/day</strong>, enabling a sub-2-minute end-to-end processing turnaround.</p>
       <ul>
         <li>Reduced deployment complexity by <strong>80%</strong></li>
-        <li>Implemented ethical AI guardrails, improving document clarity by <strong>40%</strong></li>
-        <li>Built isolated multi-tenancy supporting 500+ enterprise clients</li>
-        <li>Achieved <strong>99.95%</strong> uptime and slashed infrastructure costs by <strong>45%</strong></li>
+        <li>Improved document clarity by <strong>40%</strong> using ethical AI guardrails</li>
+        <li>Built isolated multi-tenancy for 500+ enterprise clients</li>
+        <li>Achieved <strong>99.95%</strong> uptime and slashed costs by <strong>45%</strong></li>
       </ul>
     </td>
     <td width="50%">
@@ -129,12 +132,12 @@ I design and architect high-scale enterprise solutions. My work integrates distr
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
       </p>
-      <p>A highly distributed full-stack ecosystem serving <strong>250,000+ students</strong> and <strong>8,000+ institutions</strong> globally, utilizing an advanced recommendation engine for resource discovery.</p>
+      <p>A distributed full-stack ecosystem serving <strong>250,000+ students</strong> and <strong>8,000+ institutions</strong> globally with an advanced recommendation engine.</p>
       <ul>
-        <li>Architected a high-performance faceted search using Elasticsearch</li>
-        <li>The real-time recommendation engine drove a <strong>35%</strong> user engagement increase</li>
-        <li>Aggressive caching and query optimization reduced DB load by <strong>70%</strong></li>
-        <li>Scaled to handle <strong>5x</strong> concurrent users while maintaining <strong>99.97%</strong> uptime</li>
+        <li>Architected high-performance faceted search using Elasticsearch</li>
+        <li>Driven <strong>35%</strong> user engagement increase via real-time recommendation</li>
+        <li>Aggressive caching reduced database load by <strong>70%</strong></li>
+        <li>Scaled to <strong>5x</strong> concurrent users with <strong>99.97%</strong> uptime</li>
       </ul>
     </td>
   </tr>
@@ -148,12 +151,12 @@ I design and architect high-scale enterprise solutions. My work integrates distr
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <p>A zero-trust, comprehensive platform deployed across hybrid infrastructure for a <strong>500-bed hospital</strong>, meticulously managing <strong>50,000+</strong> sensitive patient records.</p>
+      <p>Zero-trust platform deployed across hybrid infrastructure for a <strong>500-bed hospital</strong> managing <strong>50,000+</strong> patient records.</p>
       <ul>
-        <li>Designed RBAC with <strong>15+ roles</strong> and <strong>200+ granular permissions</strong></li>
-        <li>Implemented a constraint-solving scheduler improving resource use by <strong>40%</strong></li>
-        <li>Engineered an immutable, tamper-evident audit trail for all medical interactions</li>
-        <li>Saved the facility over <strong>$200K annually</strong> and reduced patient wait time by <strong>28%</strong></li>
+        <li>Designed RBAC with <strong>15+ roles</strong> and <strong>200+ permissions</strong></li>
+        <li>Constraint-solving scheduler boosted resource use by <strong>40%</strong></li>
+        <li>Immutable, tamper-evident audit trail for all medical interactions</li>
+        <li>Saved <strong>$200K annually</strong>, reduced wait time by <strong>28%</strong></li>
       </ul>
     </td>
     <td width="50%">
@@ -163,12 +166,12 @@ I design and architect high-scale enterprise solutions. My work integrates distr
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
-      <p>An advanced LLM-driven companion utilizing RAG and custom embeddings to deliver contextual, theme-based semantic search across sacred texts and complex documents.</p>
+      <p>LLM-driven companion utilizing RAG and custom embeddings for contextual, theme-based semantic search across complex documents.</p>
       <ul>
-        <li>Engineered low-latency, verse-level semantic retrieval using fine-tuned embeddings</li>
-        <li>Built a topic modeling engine to auto-surface underlying themes and clusters</li>
-        <li>Implemented pre-computed indexes ensuring sub-100ms response times</li>
-        <li>Full multi-language support, including transliteration and translation coverage</li>
+        <li>Low-latency, verse-level semantic retrieval via fine-tuned embeddings</li>
+        <li>Topic modeling engine that auto-surfaces underlying themes</li>
+        <li>Pre-computed indexes ensuring sub-100ms response times</li>
+        <li>Full multi-language support with transliteration coverage</li>
       </ul>
     </td>
   </tr>
@@ -176,7 +179,7 @@ I design and architect high-scale enterprise solutions. My work integrates distr
 
 ---
 
-### Technology Stack
+### My Favorite Tools and Technologies
 
 <table align="center">
   <tr>
@@ -221,15 +224,16 @@ I design and architect high-scale enterprise solutions. My work integrates distr
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xgboost/xgboost-original.svg" width="40"/><br/><b>XGBoost</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightgbm/lightgbm-original.svg" width="40"/><br/><b>LightGBM</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br/><b>Linux</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40"/><br/><b>Hadoop</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/><br/><b>Jenkins</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br/><b>Firebase</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/><br/><b>Arduino</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/><br/><b>GCP</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/><br/><b>.NET</b></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/><br/><b>.NET</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/><b>Java</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/><br/><b>Android</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/><br/><b>PowerShell</b></td>
@@ -237,9 +241,9 @@ I design and architect high-scale enterprise solutions. My work integrates distr
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" width="40"/><br/><b>Spark</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/><br/><b>GitLab</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br/><b>Azure</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/><br/><b>Ansible</b></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/><br/><b>Ansible</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/><br/><b>Terraform</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br/><b>Spring</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br/><b>Django</b></td>
@@ -247,10 +251,9 @@ I design and architect high-scale enterprise solutions. My work integrates distr
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/><b>React</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/><b>Next.js</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br/><b>Angular</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/><br/><b>Vue.js</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightgbm/lightgbm-original.svg" width="40"/><br/><b>LightGBM</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/><br/><b>Vue.js</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chainer/chainer-original.svg" width="40"/><br/><b>Chainer</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/><br/><b>MATLAB</b></td>
     <td align="center" colspan="5"></td>
