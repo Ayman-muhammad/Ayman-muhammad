@@ -1,4 +1,4 @@
-<!-- Ekalale Lokaale | Principal Full-Stack Architect -->
+<!-- Ekalale Lokaale | Senior Full‑Stack Engineer -->
 <style>
   @keyframes fadeSlideIn {
     0% { opacity: 0; transform: translateY(10px); }
@@ -28,32 +28,12 @@
     animation: fadeSlideIn 0.5s ease forwards;
     box-shadow: 0 2px 4px rgba(0,0,0,0.4);
   }
-  .achievement-box {
-    background: #161b22;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    padding: 10px 20px;
-    text-align: center;
-    color: #f0f6fc;
-    max-width: 400px;
-    margin: 10px auto;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 500;
-    font-size: 14px;
-  }
-  .gradient-text {
-    background: linear-gradient(90deg, #ff7b89, #b06ab3, #58a6ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: 700;
-    font-size: 16px;
-  }
 </style>
 
 <h1 align="center">👋 Hi, I'm Ekalale Lokaale</h1>
 
 <p align="center">
-  <strong>Senior Principal Full‑Stack Architect</strong> · <strong>Distributed Systems</strong> · <strong>AI‑Integrated Platforms</strong>
+  <strong>Senior Full‑Stack Engineer</strong> · <strong>Distributed Systems</strong> · <strong>AI‑Integrated Platforms</strong>
 </p>
 
 <p align="center">
@@ -75,7 +55,7 @@
 <div class="chat-container">
   <div class="chat-bubble" style="animation-delay: 0.4s;">Hi there 👋</div>
   <div class="chat-bubble" style="animation-delay: 1.2s;">I'm Ekalale</div>
-  <div class="chat-bubble" style="animation-delay: 2.0s;">Senior Principal Architect with 3+ Years of Experience</div>
+  <div class="chat-bubble" style="animation-delay: 2.0s;">Senior Full‑Stack Engineer with 3+ Years of Experience</div>
   <div class="chat-bubble" style="animation-delay: 2.8s;">Loves Distributed Systems, GenAI, and Zero-Trust Security</div>
   <div class="chat-bubble" style="animation-delay: 3.6s;">Reach out via ayman11muhammad@gmail.com</div>
   <div class="chat-bubble" style="animation-delay: 4.4s;">Check out my work below ⬇️</div>
@@ -85,7 +65,7 @@
 
 ### Orchestrating High-Scale Enterprise Architectures
 
-I design and architect high-scale enterprise solutions. My work integrates distributed systems, cloud-native infrastructure, and AI-driven decision engines. I focus on translating complex requirements into modular, highly secure systems that generate measurable ROI.
+I design and build high-scale enterprise solutions. My work integrates distributed systems, cloud-native infrastructure, and AI-driven decision engines. I focus on translating complex requirements into modular, highly secure systems that generate measurable ROI.
 
 - **Architecture Design:** Microservices, Domain-Driven Design, Event-Driven systems, Polyglot Persistence
 - **Cloud & Infrastructure:** AWS (Certified), Azure, GCP, Kubernetes, Terraform, Serverless Architectures
@@ -112,103 +92,14 @@ I design and architect high-scale enterprise solutions. My work integrates distr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayman-muhammad&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Contribution Graph" width="90%"/>
 </p>
 
-<!-- Matching the GitHub Star/Achievements Layout exactly like his -->
-<div align="center">
-  <div class="achievement-box">
-    🏆 <span class="gradient-text">GitHub Star 2023</span> · 📊 <span class="gradient-text">Top 1% Contributor</span>
-  </div>
-</div>
-
 <p align="center">
   <img src="https://img.shields.io/github/stars/Ayman-muhammad?style=flat-square&label=Total%20Stars&color=green" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/Ayman-muhammad?style=flat-square&label=Followers&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/GitHub%20Star-2023-purple?style=flat-square&logo=github" alt="GitHub Star 2023" />
-  <img src="https://img.shields.io/badge/GitHub%20Star-2024-orange?style=flat-square&logo=github" alt="GitHub Star 2024" />
 </p>
 
 ---
 
-### Key Enterprise Engineering Cornerstones
-
-*Architectural case studies defined by scale, resilience, and high-impact business logic.*
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Ayman-muhammad/ScholarFIX">ScholarFIX</a></h3>
-      <p><strong>AI Document Refinement Platform</strong></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      </p>
-      <p>Architected an event-driven microservices pipeline handling <strong>10,000+ documents/day</strong>, enabling a sub-2-minute end-to-end processing turnaround.</p>
-      <ul>
-        <li>Reduced deployment complexity by <strong>80%</strong></li>
-        <li>Improved document clarity by <strong>40%</strong> using ethical AI guardrails</li>
-        <li>Built isolated multi-tenancy for 500+ enterprise clients</li>
-        <li>Achieved <strong>99.95%</strong> uptime and slashed costs by <strong>45%</strong></li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Ayman-muhammad/AyglobeTa-allimNexa">Ayglobe Ta'alim Nexa</a></h3>
-      <p><strong>Educational Resource & Opportunity Platform</strong></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-      </p>
-      <p>A distributed full-stack ecosystem serving <strong>250,000+ students</strong> and <strong>8,000+ institutions</strong> globally with an advanced recommendation engine.</p>
-      <ul>
-        <li>Architected high-performance faceted search using Elasticsearch</li>
-        <li>Driven <strong>35%</strong> user engagement increase via real-time recommendation</li>
-        <li>Aggressive caching reduced database load by <strong>70%</strong></li>
-        <li>Scaled to <strong>5x</strong> concurrent users with <strong>99.97%</strong> uptime</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Ayman-muhammad/Hospital-Management-System">Hospital Management System</a></h3>
-      <p><strong>HIPAA-Compliant Hybrid Healthcare Platform</strong></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <p>Zero-trust platform deployed across hybrid infrastructure for a <strong>500-bed hospital</strong> managing <strong>50,000+</strong> patient records.</p>
-      <ul>
-        <li>Designed RBAC with <strong>15+ roles</strong> and <strong>200+ permissions</strong></li>
-        <li>Constraint-solving scheduler boosted resource use by <strong>40%</strong></li>
-        <li>Immutable, tamper-evident audit trail for all medical interactions</li>
-        <li>Saved <strong>$200K annually</strong>, reduced wait time by <strong>28%</strong></li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Ayman-muhammad/Al-Bayan-Ai">Al‑Bayān AI</a></h3>
-      <p><strong>AI Semantic Search & Comprehension Engine</strong></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-      <p>LLM-driven companion utilizing RAG and custom embeddings for contextual, theme-based semantic search across complex documents.</p>
-      <ul>
-        <li>Low-latency, verse-level semantic retrieval via fine-tuned embeddings</li>
-        <li>Topic modeling engine that auto-surfaces underlying themes</li>
-        <li>Pre-computed indexes ensuring sub-100ms response times</li>
-        <li>Full multi-language support with transliteration coverage</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ### My Favorite Tools and Technologies
-*(Wide 8-column high-density grid exactly like his)*
 
 <table align="center">
   <tr>
@@ -293,11 +184,15 @@ I design and architect high-scale enterprise solutions. My work integrates distr
 
 ### Engineering Principles I Live By
 
-- **Modularity First** – Systems are decomposed strictly by business domain; every component is designed to be testable, replaceable, and independently deployable.
-- **Security by Design** – Authentication, authorization, and data validation are deeply baked into the core architecture, not bolted on as an afterthought.
-- **Scalability Awareness** – Data schemas, API contracts, and infrastructure topologies are engineered for horizontal scaling from day one.
-- **Production Readiness** – Comprehensive structured logging, robust error handling, automated testing, and CI/CD are non-negotiable pillars of my delivery.
-- **Architect for Change** – Utilizing feature flags, graceful degradation, and strictly backward-compatible APIs to ensure systems can evolve without disruption.
+> **Modularity First** – Systems are decomposed strictly by business domain; every component is designed to be testable, replaceable, and independently deployable.
+
+> **Security by Design** – Authentication, authorization, and data validation are deeply baked into the core architecture, not bolted on as an afterthought.
+
+> **Scalability Awareness** – Data schemas, API contracts, and infrastructure topologies are engineered for horizontal scaling from day one.
+
+> **Production Readiness** – Comprehensive structured logging, robust error handling, automated testing, and CI/CD are non-negotiable pillars of my delivery.
+
+> **Architect for Change** – Utilizing feature flags, graceful degradation, and strictly backward-compatible APIs to ensure systems can evolve without disruption.
 
 ---
 
