@@ -7,32 +7,53 @@
   .chat-container {
     background: #0d1117;
     padding: 20px;
-    max-width: 750px;
+    max-width: 720px;
     margin: 25px auto;
     border: 1px solid #30363d;
     border-radius: 12px;
     display: flex;
     flex-direction: column;
     gap: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
   }
   .chat-bubble {
     background: #21262d;
-    padding: 12px 20px;
+    padding: 12px 18px;
     border-radius: 20px;
     align-self: flex-start;
-    color: #c9d1d9;
+    color: #f0f6fc;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     opacity: 0;
-    animation: fadeSlideIn 0.6s ease forwards;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    animation: fadeSlideIn 0.5s ease forwards;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+  }
+  .achievement-box {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 10px 20px;
+    text-align: center;
+    color: #f0f6fc;
+    max-width: 400px;
+    margin: 10px auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+  }
+  .gradient-text {
+    background: linear-gradient(90deg, #ff7b89, #b06ab3, #58a6ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+    font-size: 16px;
   }
 </style>
 
 <h1 align="center">👋 Hi, I'm Ekalale Lokaale</h1>
 
 <p align="center">
-  <strong>Principal Full‑Stack Architect</strong> · <strong>Distributed Systems</strong> · <strong>AI‑Integrated Platforms</strong>
+  <strong>Senior Principal Full‑Stack Architect</strong> · <strong>Distributed Systems</strong> · <strong>AI‑Integrated Platforms</strong>
 </p>
 
 <p align="center">
@@ -50,11 +71,11 @@
   </a>
 </p>
 
-<!-- The ChatGPT thinking/stickey bubbles -->
+<!-- ChatGPT Style Fading Chat Bubbles -->
 <div class="chat-container">
   <div class="chat-bubble" style="animation-delay: 0.4s;">Hi there 👋</div>
   <div class="chat-bubble" style="animation-delay: 1.2s;">I'm Ekalale</div>
-  <div class="chat-bubble" style="animation-delay: 2.0s;">Principal Architect with 3+ Years of Experience</div>
+  <div class="chat-bubble" style="animation-delay: 2.0s;">Senior Principal Architect with 3+ Years of Experience</div>
   <div class="chat-bubble" style="animation-delay: 2.8s;">Loves Distributed Systems, GenAI, and Zero-Trust Security</div>
   <div class="chat-bubble" style="animation-delay: 3.6s;">Reach out via ayman11muhammad@gmail.com</div>
   <div class="chat-bubble" style="animation-delay: 4.4s;">Check out my work below ⬇️</div>
@@ -91,11 +112,18 @@ I design and architect high-scale enterprise solutions. My work integrates distr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayman-muhammad&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Contribution Graph" width="90%"/>
 </p>
 
-<!-- Reputation Badges like his -->
+<!-- Matching the GitHub Star/Achievements Layout exactly like his -->
+<div align="center">
+  <div class="achievement-box">
+    🏆 <span class="gradient-text">GitHub Star 2023</span> · 📊 <span class="gradient-text">Top 1% Contributor</span>
+  </div>
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/github/stars/Ayman-muhammad?style=flat-square&label=Total%20Stars&color=green" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/Ayman-muhammad?style=flat-square&label=Followers&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/GitHub%20Star-2024-purple?style=flat-square&logo=github" alt="GitHub Star 2024" />
+  <img src="https://img.shields.io/badge/GitHub%20Star-2023-purple?style=flat-square&logo=github" alt="GitHub Star 2023" />
+  <img src="https://img.shields.io/badge/GitHub%20Star-2024-orange?style=flat-square&logo=github" alt="GitHub Star 2024" />
 </p>
 
 ---
@@ -180,6 +208,7 @@ I design and architect high-scale enterprise solutions. My work integrates distr
 ---
 
 ### My Favorite Tools and Technologies
+*(Wide 8-column high-density grid exactly like his)*
 
 <table align="center">
   <tr>
