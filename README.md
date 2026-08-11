@@ -21,28 +21,62 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/23%2B%20Years-Experience-blue?style=flat-square&logo=codeigniter" />
-  <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems-6f42c1?style=flat-square&logo=databricks" />
-  <img src="https://img.shields.io/badge/Security-Zero--Trust-brightgreen?style=flat-square&logo=lock" />
-  <img src="https://img.shields.io/badge/AI-ML--Ops%20&%20RAG-ff69b4?style=flat-square&logo=tensorflow" />
-</p>
+<!-- CHATBOT POP-UP ANIMATION START (Custom CSS) -->
+<style>
+  @keyframes fadeSlideIn {
+    0% { opacity: 0; transform: translateY(10px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+  .chat-container {
+    background: #0d1117;
+    padding: 20px;
+    max-width: 750px;
+    margin: 25px auto;
+    border: 1px solid #30363d;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .chat-bubble {
+    background: #21262d;
+    padding: 12px 20px;
+    border-radius: 20px;
+    align-self: flex-start;
+    color: #c9d1d9;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    opacity: 0;
+    animation: fadeSlideIn 0.6s ease forwards;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  }
+</style>
+
+<div class="chat-container">
+  <div class="chat-bubble" style="animation-delay: 0.4s;">Hi there 👋</div>
+  <div class="chat-bubble" style="animation-delay: 1.2s;">I'm Ekalale</div>
+  <div class="chat-bubble" style="animation-delay: 2.0s;">🏗️ Principal Architect with 2+ Years of Experience</div>
+  <div class="chat-bubble" style="animation-delay: 2.8s;">🤖 Loves Distributed Systems, GenAI, and Zero-Trust Security</div>
+  <div class="chat-bubble" style="animation-delay: 3.6s;">📧 Reach out via ayman11muhammad@gmail.com</div>
+  <div class="chat-bubble" style="animation-delay: 4.4s;">🔥 Pinned Projects Below ⬇️</div>
+</div>
+<!-- CHATBOT POP-UP ANIMATION END -->
 
 ---
 
-### 🧠 Architecting the Future
+### 🧠 Orchestrating High-Scale Enterprise Architectures
 
-I am a Principal Architect and Engineering Leader with **23+ years** of experience designing and delivering enterprise-grade, mission-critical platforms in Fintech, Edtech, Healthcare, and AI. I don't just write code—I translate complex business requirements into horizontally scalable architectures, implement zero-trust security frameworks, and lead teams through the complete product lifecycle to drive measurable business outcomes.
+I am a Principal Architect and Engineering Leader with **23+ years** of experience designing and delivering mission-critical, globally distributed platforms across Fintech, Edtech, Healthcare, and AI. My focus is not just on writing code, but on aligning deep technical mastery with C-level business strategy—translating complex requirements into modular, secure, and horizontally scalable systems that generate measurable ROI.
 
-- 🏗️ **Architecture Design:** Microservices, DDD, Event-driven architecture, Polyglot persistence
-- ☁️ **Cloud & Infrastructure:** AWS (Certified), Azure, GCP · Kubernetes · Terraform · Serverless
-- 🔒 **Security Frameworks:** Zero-trust, OAuth2/OIDC, HIPAA/GDPR compliance, RBAC
-- 🤖 **AI & Machine Learning:** RAG (Retrieval-Augmented Generation), ML-Ops pipelines, Document Understanding, NLP
-- 🧪 **DevOps & SRE:** CI/CD, Observability (Prometheus/Grafana/ELK), Chaos Engineering
+- 🏗️ **Architecture Design:** Microservices, Domain-Driven Design, Event-Driven systems, Polyglot Persistence
+- ☁️ **Cloud & Infrastructure:** AWS (Certified), Azure, GCP, Kubernetes, Terraform, Serverless Architectures
+- 🔒 **Security Frameworks:** Zero-Trust Architecture, OAuth2/OIDC, HIPAA/GDPR compliance, RBAC/ABAC
+- 🤖 **AI & Machine Learning:** RAG (Retrieval-Augmented Generation), MLOps pipelines, Document Understanding, NLP
+- 🧪 **DevOps & SRE:** CI/CD, Observability (Prometheus/Grafana/ELK), Chaos Engineering, Performance Tuning
 
 ---
 
-### 📊 GitHub Stats and Activity
+### 📊 GitHub Analytics & Activity Flow
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayman-muhammad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
@@ -59,8 +93,8 @@ I am a Principal Architect and Engineering Leader with **23+ years** of experien
 
 ---
 
-### 🚀 Enterprise Engineering Showcase
-*Here are a few cornerstones of my work—solutions built for scale, resilience, and high-impact business logic.*
+### 🚀 Enterprise Engineering Cornerstones
+*Architectural case studies defined by scale, resilience, and high-impact business logic.*
 
 <table>
   <tr>
@@ -73,63 +107,63 @@ I am a Principal Architect and Engineering Leader with **23+ years** of experien
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>
-      <p>An end-to-end document processing pipeline handling <strong>10,000+ documents/day</strong> with a sub-2-minute turnaround time. Refactored a monolith into an event-driven microservices architecture.</p>
+      <p>Architected an event-driven microservices pipeline handling <strong>10,000+ documents/day</strong>, enabling a sub-2-minute end-to-end processing turnaround by successfully decoupling a massive monolith.</p>
       <ul>
-        <li>🚀 <strong>80%</strong> less deployment complexity</li>
-        <li>🧠 Ethical AI guardrails improved document clarity by <strong>40%</strong></li>
-        <li>📊 Multi-tenancy support for 500+ enterprise clients</li>
-        <li>📈 Achieved <strong>99.95%</strong> uptime · <strong>45%</strong> infrastructure cost reduction</li>
+        <li>🚀 Reduced deployment complexity by <strong>80%</strong></li>
+        <li>🧠 Implemented ethical AI guardrails, improving document clarity by <strong>40%</strong></li>
+        <li>📊 Built isolated multi-tenancy supporting 500+ enterprise clients</li>
+        <li>📈 Achieved <strong>99.95%</strong> uptime and slashed infrastructure costs by <strong>45%</strong></li>
       </ul>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Ayman-muhammad/AyglobeTa-allimNexa">Ayglobe Ta'alim Nexa</a></h3>
-      <p><strong>Educational Resource Platform</strong></p>
+      <p><strong>Educational Resource & Opportunity Platform</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
       </p>
-      <p>Full-stack platform serving <strong>250,000+ students</strong> and <strong>8,000+ institutions</strong>; sharing academic resources and global job opportunities.</p>
+      <p>A highly distributed full-stack ecosystem serving <strong>250,000+ students</strong> and <strong>8,000+ institutions</strong> globally, utilizing an advanced recommendation engine for resource discovery.</p>
       <ul>
-        <li>🔍 High-performance faceted search engine using Elasticsearch</li>
-        <li>🤝 Real-time recommendation engine driving <strong>35%</strong> user engagement boost</li>
-        <li>🚀 Aggressive caching reduced DB load by <strong>70%</strong> (Page load: 4.2s → 1.3s)</li>
-        <li>📈 Scaled to handle <strong>5x</strong> concurrent users, maintaining <strong>99.97%</strong> availability</li>
+        <li>🔍 Architected a high-performance faceted search using Elasticsearch</li>
+        <li>🤝 The real-time recommendation engine drove a <strong>35%</strong> user engagement increase</li>
+        <li>🚀 Aggressive caching and query optimization reduced DB load by <strong>70%</strong></li>
+        <li>📈 Scaled to handle <strong>5x</strong> concurrent users while maintaining <strong>99.97%</strong> uptime</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Ayman-muhammad/Hospital-Management-System">Hospital Management System</a></h3>
-      <p><strong>HIPAA-Compliant Healthcare Platform</strong></p>
+      <p><strong>HIPAA-Compliant Hybrid Healthcare Platform</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <p>Comprehensive healthcare platform deployed for a <strong>500-bed hospital</strong> managing <strong>50,000+ patient records</strong>. Features a hybrid cloud deployment with strict compliance.</p>
+      <p>A zero-trust, comprehensive platform deployed across hybrid infrastructure for a <strong>500-bed hospital</strong>, meticulously managing <strong>50,000+</strong> sensitive patient records.</p>
       <ul>
-        <li>🏥 Implemented RBAC with <strong>15+ roles</strong> and <strong>200+ granular permissions</strong></li>
-        <li>📅 Constraint-solving scheduler improving resource utilization by <strong>40%</strong></li>
-        <li>📜 Immutable tamper-evident audit trail for all medical records</li>
-        <li>📉 Saved the facility <strong>$200K+ annually</strong> and reduced patient wait time by <strong>28%</strong></li>
+        <li>🏥 Designed RBAC with <strong>15+ roles</strong> and <strong>200+ granular permissions</strong></li>
+        <li>📅 Implemented a constraint-solving scheduler improving resource use by <strong>40%</strong></li>
+        <li>📜 Engineered an immutable, tamper-evident audit trail for all medical interactions</li>
+        <li>📉 Saved the facility over <strong>$200K annually</strong> and reduced patient wait time by <strong>28%</strong></li>
       </ul>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Ayman-muhammad/Al-Bayan-Ai">Al‑Bayān AI</a></h3>
-      <p><strong>AI-Powered Semantic Search Companion</strong></p>
+      <p><strong>AI Semantic Search & Comprehension Engine</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
-      <p>An intelligent, theme-based exploration companion for the Quran delivering contextual understanding through advanced NLP and semantic search.</p>
+      <p>An advanced LLM-driven companion utilizing RAG and custom embeddings to deliver contextual, theme-based semantic search across sacred texts and complex documents.</p>
       <ul>
-        <li>🧠 Custom embeddings for low-latency, verse-level semantic retrieval</li>
-        <li>📖 Topic modeling engine that automatically surfaces underlying themes</li>
-        <li>⚡ Pre-computed indexes and caching ensure sub-100ms response times</li>
-        <li>🌍 Full multi-language support with transliteration & translation</li>
+        <li>🧠 Engineered low-latency, verse-level semantic retrieval using fine-tuned embeddings</li>
+        <li>📖 Built a topic modeling engine to auto-surface underlying themes and clusters</li>
+        <li>⚡ Implemented pre-computed indexes ensuring sub-100ms response times</li>
+        <li>🌍 Full multi-language support, including transliteration and translation coverage</li>
       </ul>
     </td>
   </tr>
@@ -138,53 +172,91 @@ I am a Principal Architect and Engineering Leader with **23+ years** of experien
 ---
 
 ### 💻 My Favorite Tools & Technologies
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br/><b>Python</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><br/><b>Java</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40"/><br/><b>Golang</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/><br/><b>TypeScript</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/><br/><b>Kotlin</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40"/><br/><b>Rust</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/><br/><b>Django</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/><br/><b>Spring Boot</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/><br/><b>React</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/><br/><b>Next.js</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40"/><br/><b>Laravel</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/><br/><b>Flutter</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/><br/><b>AWS</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/><br/><b>Azure</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/><br/><b>GCP</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/><br/><b>K8s</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/><br/><b>Terraform</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/><br/><b>Docker</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/><br/><b>PostgreSQL</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/><br/><b>MongoDB</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/><br/><b>Redis</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40"/><br/><b>Elasticsearch</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/><br/><b>TensorFlow</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/><br/><b>PyTorch</b></td>
-    </tr>
-  </table>
-</p>
+<!-- Massive Tech Grid mimicking Ishan's layout -->
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br/><b>TensorFlow</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/><b>Python</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/><b>JavaScript</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/><b>C++</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br/><b>PyTorch</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/><b>MySQL</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/><b>TypeScript</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/><b>AWS</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/><b>C#</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/><br/><b>Scikit-learn</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/><b>GitHub</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/><b>Git</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/><br/><b>Keras</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/><b>Pandas</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/><b>NumPy</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/><br/><b>OpenCV</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="40"/><br/><b>Hugging Face</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br/><b>Jupyter</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br/><b>MongoDB</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/><b>Node.js</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br/><b>Matplotlib</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/><b>VsCode</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" width="40"/><br/><b>OpenAI</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/><br/><b>GraphQL</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/><b>PostgreSQL</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40"/><br/><b>Seaborn</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br/><b>C</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/><b>Docker</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40"/><br/><b>SciPy</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/><br/><b>Kubernetes</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br/><b>Bash</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/><br/><b>Raspberry Pi</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xgboost/xgboost-original.svg" width="40"/><br/><b>XGBoost</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br/><b>Linux</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40"/><br/><b>Hadoop</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/><br/><b>Jenkins</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br/><b>Firebase</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/><br/><b>Arduino</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/><br/><b>GCP</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/><br/><b>.NET</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/><b>Java</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/><br/><b>Android</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/><br/><b>PowerShell</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/><br/><b>Apache</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" width="40"/><br/><b>Spark</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/><br/><b>GitLab</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br/><b>Azure</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/><br/><b>Ansible</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/><br/><b>Terraform</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br/><b>Spring</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br/><b>Django</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br/><b>Flutter</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/><b>React</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/><b>Next.js</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br/><b>Angular</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/><br/><b>Vue.js</b></td>
+  </tr>
+</table>
 
 ---
 
 ### 🏆 Engineering Principles I Live By
 
-- **💡 Modularity First** – Services decomposed by business domain; every component is testable and independently deployable.
-- **🔐 Security by Design** – Authentication, authorization, and data validation are baked into the core code, not bolted on as an afterthought.
-- **📈 Scalability Awareness** – Data schemas, API contracts, and infrastructure are engineered for horizontal growth from day one.
-- **🛠️ Production Readiness** – Comprehensive error handling, structured logging, automated testing, and CI/CD are non‑negotiable standards.
-- **🧭 Architect for Change** – Utilizing feature flags, graceful degradation, and backward‑compatible APIs to enable evolution without disruption.
+- **💡 Modularity First** – Systems are decomposed strictly by business domain; every component is designed to be testable, replaceable, and independently deployable.
+- **🔐 Security by Design** – Authentication, authorization, and data validation are deeply baked into the core architecture, not bolted on as an afterthought.
+- **📈 Scalability Awareness** – Data schemas, API contracts, and infrastructure topologies are engineered for horizontal scaling from day one.
+- **🛠️ Production Readiness** – Comprehensive structured logging, robust error handling, automated testing, and CI/CD are non-negotiable pillars of my delivery.
+- **🧭 Architect for Change** – Utilizing feature flags, graceful degradation, and strictly backward-compatible APIs to ensure systems can evolve without disruption.
 
 ---
 
@@ -199,14 +271,16 @@ I am a Principal Architect and Engineering Leader with **23+ years** of experien
   <a href="https://github.com/Ayman-muhammad">
     <img src="https://img.shields.io/badge/GitHub-Ayman--muhammad-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://ekalale.tech">
+    <img src="https://img.shields.io/badge/Blog-ekalale.tech-00A98F?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Architecture is the art of balancing business needs, technical excellence, and team capabilities — creating systems that not only work today but evolve gracefully tomorrow."</i>
+  <i>"Architecture is the art of aligning business needs, technical excellence, and team capabilities—creating systems that not only deliver today but evolve gracefully for decades."</i>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ayman-muhammad&style=flat-square&color=blue" alt="Profile Views" />
 </p>
