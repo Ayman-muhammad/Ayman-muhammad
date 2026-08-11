@@ -1,34 +1,4 @@
 <!-- Ekalale Lokaale | Senior Full‑Stack Engineer -->
-<style>
-  @keyframes fadeSlideIn {
-    0% { opacity: 0; transform: translateY(10px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
-  .chat-container {
-    background: #0d1117;
-    padding: 20px;
-    max-width: 720px;
-    margin: 25px auto;
-    border: 1px solid #30363d;
-    border-radius: 12px;
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-  }
-  .chat-bubble {
-    background: #21262d;
-    padding: 12px 18px;
-    border-radius: 20px;
-    align-self: flex-start;
-    color: #f0f6fc;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    font-size: 15px;
-    opacity: 0;
-    animation: fadeSlideIn 0.5s ease forwards;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
-  }
-</style>
 
 <h1 align="center">👋 Hi, I'm Ekalale Lokaale</h1>
 
