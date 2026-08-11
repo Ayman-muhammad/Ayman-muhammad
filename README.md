@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Ekalale Lokaale</h1>
 
 <p align="center">
-  <strong>Senior Full‑Stack Engineer</strong> · <strong>Distributed Systems</strong> · <strong>AI‑Integrated Platforms</strong>
+  <strong> Full‑Stack Engineer</strong> · <strong>Distributed Systems</strong> · <strong>AI‑Integrated Platforms</strong>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 <div class="chat-container">
   <div class="chat-bubble" style="animation-delay: 0.4s;">Hi there 👋</div>
   <div class="chat-bubble" style="animation-delay: 1.2s;">I'm Ekalale</div>
-  <div class="chat-bubble" style="animation-delay: 2.0s;">Senior Full‑Stack Engineer with 3+ Years of Experience</div>
+  <div class="chat-bubble" style="animation-delay: 2.0s;"> Full‑Stack Engineer with 3+ Years of Experience</div>
   <div class="chat-bubble" style="animation-delay: 2.8s;">Loves Distributed Systems, GenAI, and Zero-Trust Security</div>
   <div class="chat-bubble" style="animation-delay: 3.6s;">Reach out via ayman11muhammad@gmail.com</div>
   <div class="chat-bubble" style="animation-delay: 4.4s;">Check out my work below ⬇️</div>
