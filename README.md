@@ -1,9 +1,23 @@
-<!-- Ekalale Lokaale | Senior Full‑Stack Engineer -->
+<!--
+  Ekalale Lokaale | Senior Full-Stack Engineer
+  GitHub Profile README
+
+  Dynamic profile architecture:
+  - API-backed GitHub statistics
+  - Automatically refreshed contribution/activity graphs
+  - ChatGPT/WhatsApp-inspired sequential introduction
+  - Microsoft-inspired enterprise engineering positioning
+  - Responsive GitHub-compatible Markdown/HTML
+  - Self-contained SVG animation via data URI
+-->
 
 <h1 align="center">👋 Hi, I'm Ekalale Lokaale</h1>
 
 <p align="center">
-  <strong> Full‑Stack Engineer</strong> · <strong>Distributed Systems</strong> · <strong>AI‑Integrated Platforms</strong>
+  <strong>Full-Stack Engineer</strong> ·
+  <strong>Distributed Systems</strong> ·
+  <strong>AI-Integrated Platforms</strong> ·
+  <strong>Cloud & Platform Engineering</strong>
 </p>
 
 <p align="center">
@@ -21,174 +35,245 @@
   </a>
 </p>
 
-<!-- ChatGPT Style Fading Chat Bubbles -->
-<div class="chat-container">
-  <div class="chat-bubble" style="animation-delay: 0.4s;">Hi there 👋</div>
-  <div class="chat-bubble" style="animation-delay: 1.2s;">I'm Ekalale</div>
-  <div class="chat-bubble" style="animation-delay: 2.0s;"> Full‑Stack Engineer with 3+ Years of Experience</div>
-  <div class="chat-bubble" style="animation-delay: 2.8s;">Loves Distributed Systems, GenAI, and Zero-Trust Security</div>
-  <div class="chat-bubble" style="animation-delay: 3.6s;">Reach out via ayman11muhammad@gmail.com</div>
-  <div class="chat-bubble" style="animation-delay: 4.4s;">Check out my work below ⬇️</div>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Ayman-muhammad&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+</p>
+
+---
+
+## 💬 A More Human Introduction
+
+<div align="center">
+
+<!-- Embedded SVG animation as data URI -->
+<img
+  src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNTIwIiB2aWV3Qm94PSIwIDAgOTAwIDUyMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIGRlc2MiPgogIDx0aXRsZSBpZD0idGl0bGUiPkVrYWxhbGUgTG9rYWFsZSAtIGNvbnZlcnNhdGlvbmFsIGVuZ2luZWVyaW5nIGludHJvZHVjdGlvbjwvdGl0bGU+CiAgPGRlc2MgaWQ9ImRlc2MiPgogICAgQSBzZXF1ZW50aWFsIGFuaW1hdGVkIGludHJvZHVjdGlvbiB3aGVyZSBFa2FsYWxlIGFwcGVhcnMgdG8gdHlwZSwKICAgIHNlbmRzIG1lc3NhZ2VzLCBhbmQgY29udGludWVzIHRoZSBjb252ZXJzYXRpb24uCiAgPC9kZXNjPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiYWNrZ3JvdW5kIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwNzExMWYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1NSUiIHN0b3AtY29sb3I9IiMwYjE3MjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDYxMDFjIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJhY2NlbnQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzBBNjZDMiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMEE5OEYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJzaGFkb3ciIHg9Ii0yMCUiIHk9Ii0yMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjE0MCUiPgogICAgICA8ZmVEcm9wU2hhZG93IGR4PSIwIiBkeT0iNCIgc3RkRGV2aWF0aW9uPSI4IiBmbG9vZC1jb2xvcj0iIzAwMDAwMCIgZmxvb2Qtb3BhY2l0eT0iMC4zNSIvPgogICAgPC9maWx0ZXI+CiAgICA8c3R5bGU+CiAgICAgIC5idWJibGUgeyBmaWxsOiAjMTIyNjNhOyByeDogMTY7IHJ5OiAxNjsgZmlsdGVyOiB1cmwoI3NoYWRvdyk7IH0KICAgICAgLnRleHQgeyBmaWxsOiAjZTZlZGYzOyBmb250LWZhbWlseTogJ1NlZ29lIFVJJywgJ0hlbHZldGljYSBOZXVlJywgQXJpYWwsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMThweDsgZm9udC13ZWlnaHQ6IDQwMDsgfQogICAgICAudHlwaW5nLWRvdCB7IGZpbGw6ICM5YWE0YjI7IH0KICAgICAgLnN0YXR1cyB7IGZpbGw6ICM2YjdhOGE7IGZvbnQtc2l6ZTogMTJweDsgZm9udC1mYW1pbHk6ICdTZWdvZSBVSScsIHNhbnMtc2VyaWY7IH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNTIwIiBmaWxsPSJ1cmwoI2JhY2tncm91bmQpIiByeD0iMjAiLz4KICA8cmVjdCB4PSI0MCIgeT0iNDAiIHdpZHRoPSI4MjAiIGhlaWdodD0iNDQwIiByeD0iMjAiIGZpbGw9IiMwYjE1MjQiIG9wYWNpdHk9IjAuOSIgc3Ryb2tlPSIjMWUzMDQ4IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjI0IiBmaWxsPSJ1cmwoI2FjY2VudCkiIC8+CiAgPHRleHQgeD0iMTAwIiB5PSIxMDciIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmZmZmYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtZmFtaWx5PSInU2Vnb2UgVUknLCBzYW5zLXNlcmlmIj5FSzwvdGV4dD4KICA8dGV4dCB4PSIxMzUiIHk9IjEwNSIgZmlsbD0iI2ZmZmZmZiIgZm9udC1zaXplPSIxOCIgZm9udC13ZWlnaHQ9IjYwMCIgZm9udC1mYW1pbHk9IidTZWdvZSBVSScsIHNhbnMtc2VyaWYiPkVrYWxhbGUgTG9rYWFsZTwvdGV4dD4KICA8dGV4dCB4PSIxMzUiIHk9IjEyNSIgZmlsbD0iIzhiOWJhZiIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidTZWdvZSBVSScsIHNhbnMtc2VyaWYiPkZ1bGwtU3RhY2sgRW5naW5lZXIgwrcgRGlzdHJpYnV0ZWQgU3lzdGVtczwvdGV4dD4KCiAgPCEtLSBUeXBpbmcgaW5kaWNhdG9yIDEgLS0+CiAgPGcgb3BhY2l0eT0iMCI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MTsxOzAiIGtleVRpbWVzPSIwOzAuMDI7MC4wODswLjEyIiBkdXI9IjEyczIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwcyIvPgogICAgPHJlY3QgeD0iMTAwIiB5PSIxNTAiIHdpZHRoPSIxODAiIGhlaWdodD0iNDAiIHJ4PSIyMCIgY2xhc3M9ImJ1YmJsZSIvPgogICAgPGNpcmNsZSBjeD0iMTI1IiBjeT0iMTcwIiByPSI0IiBjbGFzcz0idHlwaW5nLWRvdCI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjE3MDsxNjY7MTcwIiBkdXI9IjAuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBiZWdpbj0iMHMiLz4KICAgIDwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iMTQwIiBjeT0iMTcwIiByPSI0IiBjbGFzcz0idHlwaW5nLWRvdCI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjE3MDsxNjY7MTcwIiBkdXI9IjAuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBiZWdpbj0iMC4ycyIvPgogICAgPC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSIxNTUiIGN5PSIxNzAiIHI9IjQiIGNsYXNzPSJ0eXBpbmctZG90Ij4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3kiIHZhbHVlcz0iMTcwOzE2NjsxNzAiIGR1cj0iMC44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwLjRzIi8+CiAgICA8L2NpcmNsZT4KICA8L2c+CgogIDwhLS0gTWVzc2FnZSAxIC0tPgogIDxnIG9wYWNpdHk9IjAiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzA7MTsxOzAiIGtleVRpbWVzPSIwOzAuMTI7MC4xODswLjI4OzAuMzIiIGR1cj0iMTJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49IjBzIi8+CiAgICA8cmVjdCB4PSIxMDAiIHk9IjE1MCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSI1MCIgcng9IjE2IiBjbGFzcz0iYnViYmxlIi8+CiAgICA8dGV4dCB4PSIxMjAiIHk9IjE4MCIgY2xhc3M9InRleHQiPvCfmYEgSGksIEknbSBFa2FsYWxlIExva2FhbGU8L3RleHQ+CiAgICA8dGV4dCB4PSIzODAiIHk9IjIwNSIgY2xhc3M9InN0YXR1cyIgdGV4dC1hbmNob3I9ImVuZCI+4pyT4pyTPC90ZXh0PgogIDwvZz4KCiAgPCEtLSBUeXBpbmcgaW5kaWNhdG9yIDIgLS0+CiAgPGcgb3BhY2l0eT0iMCI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MDsxOzE7MCIga2V5VGltZXM9IjA7MC4zMjswLjM2OzAuNDQ7MC40OCIgZHVyPSIxMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBiZWdpbj0iMHMiLz4KICAgIDxyZWN0IHg9IjEwMCIgeT0iMjIwIiB3aWR0aD0iMTgwIiBoZWlnaHQ9IjQwIiByeD0iMjAiIGNsYXNzPSJidWJibGUiLz4KICAgIDxjaXJjbGUgY3g9IjEyNSIgY3k9IjI0MCIgcj0iNCIgY2xhc3M9InR5cGluZy1kb3QiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeSIgdmFsdWVzPSIyNDA7MjM2OzI0MCIgZHVyPSIwLjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49IjAuNHMiLz4KICAgIDwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iMTQwIiBjeT0iMjQwIiByPSI0IiBjbGFzcz0idHlwaW5nLWRvdCI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjI0MDsyMzY7MjQwIiBkdXI9IjAuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBiZWdpbj0iMC42cyIvPgogICAgPC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSIxNTUiIGN5PSIyNDAiIHI9IjQiIGNsYXNzPSJ0eXBpbmctZG90Ij4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3kiIHZhbHVlcz0iMjQwOzIzNjsyNDAiIGR1cj0iMC44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwLjhzIi8+CiAgICA8L2NpcmNsZT4KICA8L2c+CgogIDwhLS0gTWVzc2FnZSAyIC0tPgogIDxnIG9wYWNpdHk9IjAiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzA7MTsxOzAiIGtleVRpbWVzPSIwOzAuNDg7MC41NDswLjY0OzAuNjgiIGR1cj0iMTJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49IjBzIi8+CiAgICA8cmVjdCB4PSIxMDAiIHk9IjIyMCIgd2lkdGg9IjM0MCIgaGVpZ2h0PSI1MCIgcng9IjE2IiBjbGFzcz0iYnViYmxlIi8+CiAgICA8dGV4dCB4PSIxMjAiIHk9IjI1MCIgY2xhc3M9InRleHQiPkkgYnVpbGQgc2NhbGFibGUsIGludGVsbGlnZW50IHN5c3RlbXMuPC90ZXh0PgogICAgPHRleHQgeD0iNDIwIiB5PSIyNzUiIGNsYXNzPSJzdGF0dXMiIHRleHQtYW5jaG9yPSJlbmQiPuKck+KckzwvdGV4dD4KICA8L2c+CgogIDwhLS0gVHlwaW5nIGluZGljYXRvciAzIC0tPgogIDxnIG9wYWNpdHk9IjAiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzA7MTsxOzAiIGtleVRpbWVzPSIwOzAuNjg7MC43MjswLjgwOzAuODQiIGR1cj0iMTJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49IjBzIi8+CiAgICA8cmVjdCB4PSIxMDAiIHk9IjI5MCIgd2lkdGg9IjE4MCIgaGVpZ2h0PSI0MCIgcng9IjIwIiBjbGFzcz0iYnViYmxlIi8+CiAgICA8Y2lyY2xlIGN4PSIxMjUiIGN5PSIzMTAiIHI9IjQiIGNsYXNzPSJ0eXBpbmctZG90Ij4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3kiIHZhbHVlcz0iMzEwOzMwNjszMTAiIGR1cj0iMC44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwLjhzIi8+CiAgICA8L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9IjE0MCIgY3k9IjMxMCIgcj0iNCIgY2xhc3M9InR5cGluZy1kb3QiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeSIgdmFsdWVzPSIzMTA7MzA2OzMxMCIgZHVyPSIwLjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49IjEuMHMiLz4KICAgIDwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iMTU1IiBjeT0iMzEwIiByPSI0IiBjbGFzcz0idHlwaW5nLWRvdCI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjMxMDszMDY7MzEwIiBkdXI9IjAuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBiZWdpbj0iMS4ycyIvPgogICAgPC9jaXJjbGU+CiAgPC9nPgoKICA8IS0tIE1lc3NhZ2UgMyAtLT4KICA8ZyBvcGFjaXR5PSIwIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswOzE7MTswIiBrZXlUaW1lcz0iMDswLjg0OzAuOTA7MS4wMDsxLjA0IiBkdXI9IjEyczIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwcyIvPgogICAgPHJlY3QgeD0iMTAwIiB5PSIyOTAiIHdpZHRoPSIzMjAiIGhlaWdodD0iNTAiIHJ4PSIxNiIgY2xhc3M9ImJ1YmJsZSIvPgogICAgPHRleHQgeD0iMTIwIiB5PSIzMjAiIGNsYXNzPSJ0ZXh0Ij5BcmNoaXRlY3RpbmcgZm9yIHNjYWxlICZhbXA7IHNlY3VyaXR5LjwvdGV4dD4KICAgIDx0ZXh0IHg9IjQwMCIgeT0iMzQ1IiBjbGFzcz0ic3RhdHVzIiB0ZXh0LWFuY2hvcj0iZW5kIj7inJPinJM8L3RleHQ+CiAgPC9nPgoKICA8IS0tIFR5cGluZyBpbmRpY2F0b3IgNCAtLT4KICA8ZyBvcGFjaXR5PSIwIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswOzE7MTswIiBrZXlUaW1lcz0iMDsxLjA0OzEuMDg7MS4xNjsxLjIwIiBkdXI9IjEyczIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwcyIvPgogICAgPHJlY3QgeD0iMTAwIiB5PSIzNjAiIHdpZHRoPSIxODAiIGhlaWdodD0iNDAiIHJ4PSIyMCIgY2xhc3M9ImJ1YmJsZSIvPgogICAgPGNpcmNsZSBjeD0iMTI1IiBjeT0iMzgwIiByPSI0IiBjbGFzcz0idHlwaW5nLWRvdCI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjM4MDszNzY7MzgwIiBkdXI9IjAuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBiZWdpbj0iMS4ycyIvPgogICAgPC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSIxNDAiIGN5PSIzODAiIHI9IjQiIGNsYXNzPSJ0eXBpbmctZG90Ij4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3kiIHZhbHVlcz0iMzgwOzM3NjszODAiIGR1cj0iMC44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIxLjRzIi8+CiAgICA8L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9IjE1NSIgY3k9IjM4MCIgcj0iNCIgY2xhc3M9InR5cGluZy1kb3QiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeSIgdmFsdWVzPSIzODA7Mzc2OzM4MCIgZHVyPSIwLjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49IjEuNnMiLz4KICAgIDwvY2lyY2xlPgogIDwvZz4KCiAgPCEtLSBNZXNzYWdlIDQgLS0+CiAgPGcgb3BhY2l0eT0iMCI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MDsxOzE7MCIga2V5VGltZXM9IjA7MS4yMDsxLjI2OzEuMzY7MS40MCIgZHVyPSIxMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBiZWdpbj0iMHMiLz4KICAgIDxyZWN0IHg9IjEwMCIgeT0iMzYwIiB3aWR0aD0iMzYwIiBoZWlnaHQ9IjUwIiByeD0iMTYiIGNsYXNzPSJidWJibGUiLz4KICAgIDx0ZXh0IHg9IjEyMCIgeT0iMzkwIiBjbGFzcz0idGV4dCI+TGV0J3MgYnVpbGQgc29tZXRoaW5nIG1lYW5pbmdmdWwgdG9nZXRoZXIuPC90ZXh0PgogICAgPHRleHQgeD0iNDQwIiB5PSI0MTUiIGNsYXNzPSJzdGF0dXMiIHRleHQtYW5jaG9yPSJlbmQiPuKck+KckzwvdGV4dD4KICA8L2c+CgogIDwhLS0gRmluYWwgbWVzc2FnZSB3aXRoIENUQSAtLT4KICA8ZyBvcGFjaXR5PSIwIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswOzE7MTsxIiBrZXlUaW1lcz0iMDsxLjQwOzEuNDY7MS41NjsxIiBkdXI9IjEyczIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwcyIvPgogICAgPHJlY3QgeD0iMTAwIiB5PSI0MzAiIHdpZHRoPSI0MjAiIGhlaWdodD0iNTAiIHJ4PSIxNiIgY2xhc3M9ImJ1YmJsZSIgZmlsbD0iIzBBNjZDMiIvPgogICAgPHRleHQgeD0iMTIwIiB5PSI0NjAiIGNsYXNzPSJ0ZXh0IiBmaWxsPSIjZmZmZmZmIj5DaGVjayBvdXQgbXkgd29yayBiZWxvdyDinI3vuI88L3RleHQ+CiAgPC9nPgoKICA8IS0tIERlY29yYXRpdmUgYWNjZW50IGxpbmUgLS0+CiAgPGxpbmUgeDE9IjEwMCIgeTE9IjUwMCIgeDI9IjgwMCIgeTI9IjUwMCIgc3Ryb2tlPSJ1cmwoI2FjY2VudCkiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWRhc2hhcnJheT0iNiw2IiBvcGFjaXR5PSIwLjMiLz4KPC9zdmc+"
+  alt="Animated introduction from Ekalale Lokaale"
+  width="900"
+/>
+
+<p>
+  <em>
+    An interactive introduction designed as a modern conversation —
+    typing, thinking, and messages appearing naturally.
+  </em>
+</p>
+
 </div>
 
 ---
 
-### Orchestrating High-Scale Enterprise Architectures
-
-I design and build high-scale enterprise solutions. My work integrates distributed systems, cloud-native infrastructure, and AI-driven decision engines. I focus on translating complex requirements into modular, highly secure systems that generate measurable ROI.
-
-- **Architecture Design:** Microservices, Domain-Driven Design, Event-Driven systems, Polyglot Persistence
-- **Cloud & Infrastructure:** AWS (Certified), Azure, GCP, Kubernetes, Terraform, Serverless Architectures
-- **Security Frameworks:** Zero-Trust Architecture, OAuth2/OIDC, HIPAA/GDPR compliance, RBAC/ABAC
-- **AI & Machine Learning:** RAG (Retrieval-Augmented Generation), MLOps pipelines, Document Understanding, NLP
-- **DevOps & SRE:** CI/CD, Observability (Prometheus/Grafana/ELK), Chaos Engineering, Performance Tuning
-
----
-
-### Analytics and Activity Flow
-
-<p align="center">
-  <a href="https://github.com/Ayman-muhammad">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ayman-muhammad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman-muhammad&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" height="180" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayman-muhammad&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayman-muhammad&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Contribution Graph" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Ayman-muhammad?style=flat-square&label=Total%20Stars&color=green" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/Ayman-muhammad?style=flat-square&label=Followers&color=blue" alt="GitHub Followers" />
-</p>
-
----
-
-### My Favorite Tools and Technologies
+# 🧭 Engineering at a Glance
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br/><b>TensorFlow</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/><b>Python</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/><b>JavaScript</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/><b>C++</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br/><b>PyTorch</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/><b>MySQL</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/><b>TypeScript</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/><b>AWS</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/><b>C#</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/><br/><b>Scikit-learn</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/><b>GitHub</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/><b>Git</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/><br/><b>Keras</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/><b>Pandas</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/><b>NumPy</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/><br/><b>OpenCV</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="40"/><br/><b>Hugging Face</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br/><b>Jupyter</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br/><b>MongoDB</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/><b>Node.js</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br/><b>Matplotlib</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/><b>VSCode</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40"/><br/><b>OpenAI</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/><br/><b>GraphQL</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/><b>PostgreSQL</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40"/><br/><b>Seaborn</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br/><b>C</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/><b>Docker</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40"/><br/><b>SciPy</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/><br/><b>Kubernetes</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br/><b>Bash</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/><br/><b>Raspberry Pi</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xgboost/xgboost-original.svg" width="40"/><br/><b>XGBoost</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightgbm/lightgbm-original.svg" width="40"/><br/><b>LightGBM</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br/><b>Linux</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40"/><br/><b>Hadoop</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/><br/><b>Jenkins</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br/><b>Firebase</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/><br/><b>Arduino</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/><br/><b>GCP</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/><br/><b>.NET</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/><b>Java</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/><br/><b>Android</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/><br/><b>PowerShell</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/><br/><b>Apache</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" width="40"/><br/><b>Spark</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/><br/><b>GitLab</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br/><b>Azure</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/><br/><b>Ansible</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/><br/><b>Terraform</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br/><b>Spring</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br/><b>Django</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br/><b>Flutter</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/><b>React</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/><b>Next.js</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br/><b>Angular</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/><br/><b>Vue.js</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chainer/chainer-original.svg" width="40"/><br/><b>Chainer</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/><br/><b>MATLAB</b></td>
-    <td align="center" colspan="5"></td>
+    <td align="center" width="180">
+
+### 🧠
+
+**Systems**
+
+Distributed architecture  
+Domain-driven design  
+Event-driven systems
+
+</td>
+    <td align="center" width="180">
+
+### 🤖
+
+**Intelligence**
+
+Generative AI  
+RAG  
+Computer Vision  
+ML systems
+
+</td>
+    <td align="center" width="180">
+
+### ☁️
+
+**Infrastructure**
+
+Cloud-native systems  
+Containers  
+Kubernetes  
+IaC
+
+</td>
+    <td align="center" width="180">
+
+### 🔐
+
+**Security**
+
+Zero Trust  
+Identity  
+RBAC / ABAC  
+Secure APIs
+
+</td>
   </tr>
 </table>
 
 ---
 
-### Engineering Principles I Live By
+# 🚀 Orchestrating High-Scale Enterprise Architectures
 
-> **Modularity First** – Systems are decomposed strictly by business domain; every component is designed to be testable, replaceable, and independently deployable.
+I design and build software systems where **architecture, reliability, intelligence, security, and developer experience** work together.
 
-> **Security by Design** – Authentication, authorization, and data validation are deeply baked into the core architecture, not bolted on as an afterthought.
+My engineering approach is centered on turning complex requirements into **modular, observable, secure, and scalable platforms**.
 
-> **Scalability Awareness** – Data schemas, API contracts, and infrastructure topologies are engineered for horizontal scaling from day one.
+Rather than optimizing only for getting a feature working, I think about:
 
-> **Production Readiness** – Comprehensive structured logging, robust error handling, automated testing, and CI/CD are non-negotiable pillars of my delivery.
+- **How the system behaves under load**
+- **How services communicate and fail**
+- **How data evolves**
+- **How security boundaries are enforced**
+- **How infrastructure scales**
+- **How AI capabilities integrate safely**
+- **How developers maintain the platform years later**
+- **How engineering decisions translate into measurable business value**
 
-> **Architect for Change** – Utilizing feature flags, graceful degradation, and strictly backward-compatible APIs to ensure systems can evolve without disruption.
-
----
-
-<h3 align="center">Let's Connect</h3>
-<p align="center">
-  <a href="mailto:ayman11muhammad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ayman11muhammad%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ekalale-lokaale">
-    <img src="https://img.shields.io/badge/LinkedIn-ekalale--lokaale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ayman-muhammad">
-    <img src="https://img.shields.io/badge/GitHub-Ayman--muhammad-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://ekalale.tech">
-    <img src="https://img.shields.io/badge/Blog-ekalale.tech-00A98F?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
-</p>
+> **Build for today. Architect for tomorrow.**
 
 ---
 
-<p align="center">
-  <i>"Engineering robust, scalable, and secure systems is the foundation of business innovation."</i>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayman-muhammad&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+# 🏛️ Enterprise Engineering Capability
 
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
 
+### 🧩 Architecture & Distributed Systems
+
+- Microservices Architecture
+- Domain-Driven Design
+- Event-Driven Architecture
+- Distributed Systems
+- Modular Monoliths
+- API-First Architecture
+- Polyglot Persistence
+- Service Boundaries
+- Asynchronous Processing
+- System Integration
+- Fault Isolation
+- Horizontal Scalability
+
+</td>
+    <td valign="top" width="50%">
+
+### ☁️ Cloud & Platform Engineering
+
+- AWS
+- Azure
+- Google Cloud
+- Kubernetes
+- Docker
+- Terraform
+- Serverless Architectures
+- Infrastructure as Code
+- CI/CD
+- Cloud-Native Development
+- Observability
+- Reliability Engineering
+
+</td>
+  </tr>
+  <tr>
+    <td valign="top">
+
+### 🔐 Security Engineering
+
+- Zero-Trust Architecture
+- OAuth 2.0
+- OpenID Connect
+- RBAC / ABAC
+- Identity & Access Management
+- Secure API Design
+- Data Protection
+- Threat-Aware Architecture
+- Security-by-Design
+- Authentication & Authorization
+
+</td>
+    <td valign="top">
+
+### 🤖 AI & Machine Learning
+
+- Generative AI
+- Retrieval-Augmented Generation
+- LLM Applications
+- AI Decision Engines
+- NLP
+- Computer Vision
+- Document Understanding
+- MLOps
+- Model Deployment
+- ML Pipelines
+- Data Engineering
+
+</td>
+  </tr>
+</table>
+
+---
+
+# 🧠 How I Think About Systems
+
+```text
+                              ┌───────────────────────┐
+                              │       USERS / APPS    │
+                              └───────────┬───────────┘
+                                          │
+                                          ▼
+                              ┌───────────────────────┐
+                              │      EDGE / API        │
+                              │    GATEWAY / BFF       │
+                              └───────────┬───────────┘
+                                          │
+                    ┌─────────────────────┼─────────────────────┐
+                    │                     │                     │
+                    ▼                     ▼                     ▼
+          ┌─────────────────┐   ┌─────────────────┐   ┌─────────────────┐
+          │ Identity &      │   │ Domain /        │   │ AI / ML         │
+          │ Security       │   │ Business        │   │ Intelligence    │
+          │                 │   │ Services        │   │ Services        │
+          └────────┬────────┘   └────────┬────────┘   └────────┬────────┘
+                   │                     │                     │
+                   └─────────────────────┼─────────────────────┘
+                                         │
+                                         ▼
+                              ┌───────────────────────┐
+                              │ EVENT / MESSAGE BUS   │
+                              │ Async Communication   │
+                              └───────────┬───────────┘
+                                          │
+                       ┌──────────────────┼──────────────────┐
+                       │                  │                  │
+                       ▼                  ▼                  ▼
+               ┌──────────────┐   ┌──────────────┐   ┌──────────────┐
+               │ PostgreSQL   │   │ MongoDB      │   │ Redis /      │
+               │ Relational   │   │ Document     │   │ Cache        │
+               └──────────────┘   └──────────────┘   └──────────────┘
+                                          │
+                                          ▼
+                              ┌───────────────────────┐
+                              │ OBSERVABILITY         │
+                              │ Logs · Metrics ·      │
+                              │ Traces · Alerts       │
+                              └───────────┬───────────┘
+                                          │
+                                          ▼
+                              ┌───────────────────────┐
+                              │ CLOUD / PLATFORM      │
+                              │ Kubernetes · IaC · CI │
+                              └───────────────────────┘
+
+The goal is not to create complexity.
+
+The goal is to create clear boundaries that allow complexity to remain manageable.
