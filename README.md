@@ -1,14 +1,14 @@
-<!-- Ekalale Lokaale | Senior Full‑Stack Engineer | Profile README -->
+<!-- Ekalale Lokaale | Senior Full‑Stack Engineer -->
 
 <h1 align="center">👋 Hi, I'm Ekalale Lokaale</h1>
 
 <p align="center">
-  <strong>Full‑Stack Engineer</strong> · <strong>Distributed Systems</strong> · <strong>AI‑Integrated Platforms</strong>
+  <strong> Full‑Stack Engineer</strong> · <strong>Distributed Systems</strong> · <strong>AI‑Integrated Platforms</strong>
 </p>
 
 <p align="center">
   <a href="mailto:ayman11muhammad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ayman11muhammad%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ekalale" />
+    <img src="https://img.shields.io/badge/Email-ayman11muhammad%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/ekalale-lokaale">
     <img src="https://img.shields.io/badge/LinkedIn-ekalale--lokaale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,22 +21,15 @@
   </a>
 </p>
 
-<!--
-  Chat-style typing animation.
-  GitHub strips <style>/<script> from README.md, so CSS keyframes never render here —
-  this uses readme-typing-svg, which pre-renders the typing effect server-side as an
-  animated SVG and serves it as a normal <img>, which GitHub *does* render.
-  Edit the "lines" query param below to change what gets "typed" — separate lines with ;
-  and use + for spaces. Live editor: https://readme-typing-svg.demolab.com/demo/
--->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00A98F&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B;I'm+Ekalale+Lokaale;Full-Stack+Engineer+%7C+3%2B+Years+Experience;Distributed+Systems+%C2%B7+GenAI+%C2%B7+Zero-Trust+Security;Reach+me+at+ayman11muhammad%40gmail.com;Check+out+my+work+below+%E2%AC%87%EF%B8%8F"
-      alt="Typing animation introducing Ekalale Lokaale"
-    />
-  </a>
-</p>
+<!-- ChatGPT Style Fading Chat Bubbles -->
+<div class="chat-container">
+  <div class="chat-bubble" style="animation-delay: 0.4s;">Hi there 👋</div>
+  <div class="chat-bubble" style="animation-delay: 1.2s;">I'm Ekalale</div>
+  <div class="chat-bubble" style="animation-delay: 2.0s;"> Full‑Stack Engineer with 3+ Years of Experience</div>
+  <div class="chat-bubble" style="animation-delay: 2.8s;">Loves Distributed Systems, GenAI, and Zero-Trust Security</div>
+  <div class="chat-bubble" style="animation-delay: 3.6s;">Reach out via ayman11muhammad@gmail.com</div>
+  <div class="chat-bubble" style="animation-delay: 4.4s;">Check out my work below ⬇️</div>
+</div>
 
 ---
 
@@ -54,23 +47,19 @@ I design and build high-scale enterprise solutions. My work integrates distribut
 
 ### Analytics and Activity Flow
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ayman-muhammad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" alt="Ekalale's GitHub stats" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman-muhammad&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Ekalale's most used languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ayman-muhammad&theme=radical&hide_border=true" alt="Ekalale's GitHub streak" />
+  <a href="https://github.com/Ayman-muhammad">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ayman-muhammad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman-muhammad&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" height="180" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayman-muhammad&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Ekalale's contribution activity graph" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayman-muhammad&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayman-muhammad&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Contribution Graph" width="90%"/>
 </p>
 
 <p align="center">
@@ -180,16 +169,16 @@ I design and build high-scale enterprise solutions. My work integrates distribut
 <h3 align="center">Let's Connect</h3>
 <p align="center">
   <a href="mailto:ayman11muhammad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ayman11muhammad%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ayman11muhammad%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ekalale-lokaale">
-    <img src="https://img.shields.io/badge/LinkedIn-ekalale--lokaale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-ekalale--lokaale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Ayman-muhammad">
-    <img src="https://img.shields.io/badge/GitHub-Ayman--muhammad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Ayman--muhammad-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://ekalale.tech">
-    <img src="https://img.shields.io/badge/Blog-ekalale.tech-00A98F?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-ekalale.tech-00A98F?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </p>
 
@@ -201,3 +190,5 @@ I design and build high-scale enterprise solutions. My work integrates distribut
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ayman-muhammad&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
+
