@@ -1,203 +1,412 @@
-<!-- Ekalale Lokaale | Senior Full‑Stack Engineer | Profile README -->
+<!-- AYMAN MUHAMMAD | GitHub Profile README -->
 
-<h1 align="center">👋 Hi, I'm Ekalale Lokaale</h1>
-
-<p align="center">
-  <strong>Full‑Stack Engineer</strong> · <strong>Distributed Systems</strong> · <strong>AI‑Integrated Platforms</strong>
-</p>
+<h1 align="center">👋 Hi, I'm Ayman Muhammad</h1>
 
 <p align="center">
-  <a href="mailto:ayman11muhammad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ayman11muhammad%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ekalale" />
-  </a>
-  <a href="https://linkedin.com/in/ekalale-lokaale">
-    <img src="https://img.shields.io/badge/LinkedIn-ekalale--lokaale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Ayman-muhammad">
-    <img src="https://img.shields.io/badge/GitHub-Ayman--muhammad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://ekalale.tech">
-    <img src="https://img.shields.io/badge/Blog-ekalale.tech-00A98F?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
-  </a>
+  <strong>Full-Stack Engineer</strong> ·
+  <strong>AI & Intelligent Systems</strong> ·
+  <strong>Robotics</strong> ·
+  <strong>Computer Science</strong>
 </p>
 
-<!--
-  Chat-style typing animation.
-  GitHub strips <style>/<script> from README.md, so CSS keyframes never render here —
-  this uses readme-typing-svg, which pre-renders the typing effect server-side as an
-  animated SVG and serves it as a normal <img>, which GitHub *does* render.
-  Edit the "lines" query param below to change what gets "typed" — separate lines with ;
-  and use + for spaces. Live editor: https://readme-typing-svg.demolab.com/demo/
--->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00A98F&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B;I'm+Ekalale+Lokaale;Full-Stack+Engineer+%7C+3%2B+Years+Experience;Distributed+Systems+%C2%B7+GenAI+%C2%B7+Zero-Trust+Security;Reach+me+at+ayman11muhammad%40gmail.com;Check+out+my+work+below+%E2%AC%87%EF%B8%8F"
-      alt="Typing animation introducing Ekalale Lokaale"
-    />
-  </a>
-</p>
-
----
-
-### Orchestrating High-Scale Enterprise Architectures
-
-I design and build high-scale enterprise solutions. My work integrates distributed systems, cloud-native infrastructure, and AI-driven decision engines. I focus on translating complex requirements into modular, highly secure systems that generate measurable ROI.
-
-- **Architecture Design:** Microservices, Domain-Driven Design, Event-Driven systems, Polyglot Persistence
-- **Cloud & Infrastructure:** AWS (Certified), Azure, GCP, Kubernetes, Terraform, Serverless Architectures
-- **Security Frameworks:** Zero-Trust Architecture, OAuth2/OIDC, HIPAA/GDPR compliance, RBAC/ABAC
-- **AI & Machine Learning:** RAG (Retrieval-Augmented Generation), MLOps pipelines, Document Understanding, NLP
-- **DevOps & SRE:** CI/CD, Observability (Prometheus/Grafana/ELK), Chaos Engineering, Performance Tuning
-
----
-
-### Analytics and Activity Flow
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ayman-muhammad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" alt="Ekalale's GitHub stats" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman-muhammad&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Ekalale's most used languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ayman-muhammad&theme=radical&hide_border=true" alt="Ekalale's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayman-muhammad&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Ekalale's contribution activity graph" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Ayman-muhammad?style=flat-square&label=Total%20Stars&color=green" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/Ayman-muhammad?style=flat-square&label=Followers&color=blue" alt="GitHub Followers" />
-</p>
-
----
-
-### My Favorite Tools and Technologies
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br/><b>TensorFlow</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/><b>Python</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/><b>JavaScript</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/><b>C++</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br/><b>PyTorch</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/><b>MySQL</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/><b>TypeScript</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/><b>AWS</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/><b>C#</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/><br/><b>Scikit-learn</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/><b>GitHub</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/><b>Git</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/><br/><b>Keras</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/><b>Pandas</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/><b>NumPy</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/><br/><b>OpenCV</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="40"/><br/><b>Hugging Face</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br/><b>Jupyter</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br/><b>MongoDB</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/><b>Node.js</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br/><b>Matplotlib</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/><b>VSCode</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40"/><br/><b>OpenAI</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/><br/><b>GraphQL</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/><b>PostgreSQL</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40"/><br/><b>Seaborn</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br/><b>C</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/><b>Docker</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40"/><br/><b>SciPy</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/><br/><b>Kubernetes</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br/><b>Bash</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/><br/><b>Raspberry Pi</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xgboost/xgboost-original.svg" width="40"/><br/><b>XGBoost</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightgbm/lightgbm-original.svg" width="40"/><br/><b>LightGBM</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br/><b>Linux</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40"/><br/><b>Hadoop</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/><br/><b>Jenkins</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br/><b>Firebase</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/><br/><b>Arduino</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/><br/><b>GCP</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/><br/><b>.NET</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/><b>Java</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/><br/><b>Android</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/><br/><b>PowerShell</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/><br/><b>Apache</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" width="40"/><br/><b>Spark</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/><br/><b>GitLab</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br/><b>Azure</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/><br/><b>Ansible</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/><br/><b>Terraform</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br/><b>Spring</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br/><b>Django</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br/><b>Flutter</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/><b>React</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/><b>Next.js</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br/><b>Angular</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/><br/><b>Vue.js</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chainer/chainer-original.svg" width="40"/><br/><b>Chainer</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/><br/><b>MATLAB</b></td>
-    <td align="center" colspan="5"></td>
-  </tr>
-</table>
-
----
-
-### Engineering Principles I Live By
-
-> **Modularity First** – Systems are decomposed strictly by business domain; every component is designed to be testable, replaceable, and independently deployable.
-
-> **Security by Design** – Authentication, authorization, and data validation are deeply baked into the core architecture, not bolted on as an afterthought.
-
-> **Scalability Awareness** – Data schemas, API contracts, and infrastructure topologies are engineered for horizontal scaling from day one.
-
-> **Production Readiness** – Comprehensive structured logging, robust error handling, automated testing, and CI/CD are non-negotiable pillars of my delivery.
-
-> **Architect for Change** – Utilizing feature flags, graceful degradation, and strictly backward-compatible APIs to ensure systems can evolve without disruption.
-
----
-
-<h3 align="center">Let's Connect</h3>
 <p align="center">
   <a href="mailto:ayman11muhammad@gmail.com">
     <img src="https://img.shields.io/badge/Email-ayman11muhammad%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/ekalale-lokaale">
-    <img src="https://img.shields.io/badge/LinkedIn-ekalale--lokaale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ayman-ayman-muhammad-6905a937a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayman%20Muhammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Ayman-muhammad">
     <img src="https://img.shields.io/badge/GitHub-Ayman--muhammad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://ekalale.tech">
-    <img src="https://img.shields.io/badge/Blog-ekalale.tech-00A98F?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00A98F&center=true&vCenter=true&width=750&lines=Building+software+that+solves+real+problems+%F0%9F%9A%80;Full-Stack+Engineering+%7C+AI+%7C+Robotics;Learning+Linux+%7C+ROS+2+%7C+Intelligent+Systems;Turning+ideas+into+working+products;Building+in+public+%F0%9F%94%A5"
+    alt="Typing animation"
+  />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm **Ayman Muhammad**, a Computer Science student at **Mount Kenya University** and a Full-Stack Engineer focused on building practical software systems and exploring the intersection of **AI, distributed applications, and robotics**.
+
+My engineering journey spans web and mobile development, backend systems, cloud-connected applications, AI-assisted products, and robotics development.
+
+Currently, I'm expanding from application development into **systems engineering and robotics**, with a particular focus on:
+
+* 🧠 Artificial Intelligence & AI-integrated applications
+* 🤖 Robotics and autonomous systems
+* 🐧 Linux / Ubuntu systems
+* 🦾 ROS 2 and robot software architecture
+* 🌐 Full-stack and distributed applications
+* 📱 Cross-platform mobile development
+* 🔐 Secure authentication and backend architecture
+* ☁️ Cloud-connected applications
+* 📊 Data and intelligent decision systems
+
+> **My goal:** build intelligent systems that move beyond demos and become useful, reliable products.
+
+---
+
+## 🚀 What I'm Building
+
+### 🤖 Autonomous Humanoid Robotics
+
+I'm currently studying and reverse-engineering humanoid robotics systems with the goal of progressing toward autonomous robot operation.
+
+My robotics learning path includes:
+
+**Reverse-engineer → Map architecture → Understand → Isolate → Validate → Integrate → Automate**
+
+Current areas of study include:
+
+* Ubuntu 22.04
+* Linux system administration
+* ROS 2 Humble
+* ROS 2 nodes, topics, services and actions
+* Robot networking
+* SSH and remote development
+* Jetson-based robotics computing
+* RGB-D perception
+* Robot middleware
+* Hardware/software architecture
+* Simulation and validation
+* Autonomous robot control
+
+The long-term objective is to understand the complete stack rather than treating the robot as a black box.
+
+---
+
+## 🛠️ Engineering Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+</p>
+
+### Frontend & Mobile
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
+</p>
+
+### Backend & APIs
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" alt="GraphQL"/>
+</p>
+
+### Databases & Data
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
+</p>
+
+### AI / Machine Learning
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="Scikit-learn"/>
+</p>
+
+Areas I'm exploring:
+
+* Generative AI
+* LLM-powered applications
+* Retrieval-Augmented Generation (RAG)
+* NLP
+* Computer Vision
+* Edge AI
+* Machine Learning
+* AI-assisted decision systems
+
+### Systems, DevOps & Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+</p>
+
+Current systems-learning areas:
+
+* Linux / Ubuntu
+* WSL
+* Git & GitHub
+* Docker
+* REST APIs
+* WebSockets
+* Real-time systems
+* Authentication & authorization
+* Networking
+* Remote development
+* System architecture
+
+---
+
+## 💡 Selected Projects
+
+### 🧠 Iqra — Quran Learning & Recitation Platform
+
+A mobile application concept focused on Quran memorization and recitation assistance.
+
+**Focus areas:**
+
+* Recitation analysis
+* Memorization assistance
+* AI-assisted learning
+* Imam Mode
+* Competitions
+* Offline-first capabilities
+
+**Stack:** Flutter · Firebase · MVVM · Repository Architecture · AI
+
+---
+
+### 🌐 VibeLoop — Real-Time Social Platform
+
+A decentralized-style multimedia co-watching platform designed around real-time interaction.
+
+**Focus areas:**
+
+* Real-time synchronization
+* WebSockets
+* WebRTC
+* Voice communication
+* Mobile payments
+* Distributed application architecture
+
+**Stack:** PWA · WebSockets · WebRTC · Supabase · IntaSend · M-Pesa
+
+---
+
+### 💳 Kifuko — Live Social FinTech Platform
+
+A live synchronous social-financial platform concept combining social interaction with digital payments.
+
+**Architecture focus:**
+
+* Flutter frontend
+* Supabase backend
+* PostgreSQL
+* IntaSend payment infrastructure
+* M-Pesa payment flows
+* RevenueCat
+* Real-time application state
+
+---
+
+### 🎓 Ayglobe Campus Hub
+
+A student-focused digital platform designed around the university ecosystem.
+
+Potential modules include:
+
+* 📚 Notes & learning resources
+* 🛒 Student marketplace
+* 🕐 Timetables
+* 🔎 Lost & Found
+* 💼 Jobs & opportunities
+* 💰 Wallet & payments
+* 🤖 AI Study Assistant
+
+---
+
+### 🤖 MKU Humanoid Robotics
+
+An ongoing robotics engineering and reverse-engineering project focused on understanding humanoid robot architecture and progressing toward autonomy.
+
+**Current stack / environment:**
+
+* Ubuntu 22.04
+* ROS 2 Humble
+* Jetson
+* RGB-D perception
+* SSH
+* Ethernet networking
+* Git / GitHub
+* Robot middleware
+* Hardware/software system mapping
+
+---
+
+## 🧭 My Engineering Approach
+
+I believe good engineering is not about using the largest number of technologies.
+
+It is about understanding the system deeply enough to make the right technical decisions.
+
+### 01 — Understand
+
+Before changing a system, understand how it actually works.
+
+### 02 — Map
+
+Document components, dependencies, data flows, interfaces and failure points.
+
+### 03 — Isolate
+
+Break complex systems into independently testable components.
+
+### 04 — Validate
+
+Test assumptions against real behavior rather than relying on documentation alone.
+
+### 05 — Integrate
+
+Connect validated components while preserving clear interfaces.
+
+### 06 — Automate
+
+Once the system is understood and validated, automate repetitive operations.
+
+> **Understand the system. Then improve the system.**
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ayman-muhammad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
+    alt="Ayman's GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman-muhammad&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    alt="Ayman's most used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Ayman-muhammad&theme=radical&hide_border=true"
+    alt="Ayman's GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayman-muhammad&theme=react-dark&bg_color=0d1117&hide_border=true&area=true"
+    alt="Ayman's GitHub contribution graph"
+    width="90%"
+  />
+</p>
+
+---
+
+## 🔬 Currently Learning
+
+```text
+Full-Stack Engineering
+        │
+        ├── Backend Architecture
+        ├── Real-Time Systems
+        ├── Secure APIs
+        └── Distributed Applications
+                 │
+                 ▼
+             Artificial Intelligence
+                 │
+        ├── Generative AI
+        ├── Computer Vision
+        ├── Edge AI
+        └── Intelligent Decision Systems
+                 │
+                 ▼
+              Robotics
+                 │
+        ├── Linux / Ubuntu
+        ├── ROS 2
+        ├── Robot Middleware
+        ├── Perception
+        └── Autonomous Systems
+```
+
+---
+
+## 🎯 Long-Term Direction
+
+My long-term engineering direction sits at the intersection of:
+
+**Software Engineering × Artificial Intelligence × Robotics**
+
+I want to build systems where software does more than process information — systems that can **perceive, reason, communicate, make decisions, and interact with the physical world.**
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in:
+
+* AI engineering
+* Robotics
+* Full-stack engineering
+* Open-source development
+* Research
+* Technical collaboration
+* Building products
+* Distributed systems
+* Intelligent systems
+
+<p align="center">
+  <a href="mailto:ayman11muhammad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Ayman-muhammad">
+    <img src="https://img.shields.io/badge/GitHub-Ayman--muhammad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Engineering robust, scalable, and secure systems is the foundation of business innovation."</i>
+  <i>Building. Learning. Reverse-engineering. Integrating.</i>
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayman-muhammad&style=flat-square&color=blue" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Ayman-muhammad&style=flat-square"
+    alt="Profile views"
+  />
 </p>
+
+<!--
+Official / Academic Name:
+Ekalale Lokaale Simon
+
+Professional name:
+Ayman Muhammad
+-->
