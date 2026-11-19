@@ -313,25 +313,25 @@ My interest in AI is focused on **integrating intelligence into complete product
 <table align="center">
   <tr>
     <td align="center" width="20%">
-      <b>📚 Data</b><br/>
+      <b> Data</b><br/>
       Collection<br/>
       Preparation
     </td>
     <td align="center">→</td>
     <td align="center" width="20%">
-      <b>🧠 Model</b><br/>
+      <b> Model</b><br/>
       ML · LLM<br/>
       Vision
     </td>
     <td align="center">→</td>
     <td align="center" width="20%">
-      <b>⚙️ Inference</b><br/>
+      <b> Inference</b><br/>
       Processing<br/>
       Evaluation
     </td>
     <td align="center">→</td>
     <td align="center" width="20%">
-      <b>🌐 Application</b><br/>
+      <b> Application</b><br/>
       APIs · Services<br/>
       User Experience
     </td>
@@ -354,7 +354,7 @@ My interest in AI is focused on **integrating intelligence into complete product
 
 ---
 
-## 🤖 Robotics & Autonomous Systems
+##  Robotics & Autonomous Systems
 
 I'm expanding from software engineering into robotics by studying the complete relationship between **hardware, operating systems, middleware, perception, networking, and application-level behavior**.
 
@@ -362,25 +362,25 @@ I'm expanding from software engineering into robotics by studying the complete r
 
 <table align="center">
   <tr>
-    <td align="center"><b>01</b><br/>🔍 Reverse-Engineer</td>
+    <td align="center"><b>01</b><br/> Reverse-Engineer</td>
     <td align="center">→</td>
-    <td align="center"><b>02</b><br/>🗺️ Map Architecture</td>
+    <td align="center"><b>02</b><br/> Map Architecture</td>
     <td align="center">→</td>
-    <td align="center"><b>03</b><br/>🧠 Understand</td>
+    <td align="center"><b>03</b><br/> Understand</td>
     <td align="center">→</td>
-    <td align="center"><b>04</b><br/>🧩 Isolate</td>
+    <td align="center"><b>04</b><br/> Isolate</td>
   </tr>
   <tr>
     <td align="center" colspan="7">↓</td>
   </tr>
   <tr>
-    <td align="center"><b>05</b><br/>🧪 Validate</td>
+    <td align="center"><b>05</b><br/> Validate</td>
     <td align="center">→</td>
-    <td align="center"><b>06</b><br/>🔗 Integrate</td>
+    <td align="center"><b>06</b><br/> Integrate</td>
     <td align="center">→</td>
-    <td align="center"><b>07</b><br/>⚙️ Automate</td>
+    <td align="center"><b>07</b><br/> Automate</td>
     <td align="center">→</td>
-    <td align="center"><b>08</b><br/>📈 Iterate</td>
+    <td align="center"><b>08</b><br/> Iterate</td>
   </tr>
 </table>
 
@@ -388,43 +388,43 @@ I'm expanding from software engineering into robotics by studying the complete r
 
 <table align="center">
   <tr>
-    <td align="center"><b>🐧 Ubuntu</b><br/>Operating System</td>
-    <td align="center"><b>🦾 ROS 2</b><br/>Robot Middleware</td>
-    <td align="center"><b>💻 Jetson</b><br/>Edge Computing</td>
-    <td align="center"><b>📷 RGB-D</b><br/>Perception</td>
+    <td align="center">< Ubuntu</b><br/>Operating System</td>
+    <td align="center"><b> ROS 2</b><br/>Robot Middleware</td>
+    <td align="center"><b> Jetson</b><br/>Edge Computing</td>
+    <td align="center"><b> RGB-D</b><br/>Perception</td>
   </tr>
   <tr>
-    <td align="center"><b>🌐 Ethernet</b><br/>Networking</td>
-    <td align="center"><b>🔐 SSH</b><br/>Remote Access</td>
-    <td align="center"><b>🔧 Git</b><br/>Version Control</td>
-    <td align="center"><b>🤖 Autonomy</b><br/>Long-Term Goal</td>
+    <td align="center"><b> Ethernet</b><br/>Networking</td>
+    <td align="center"><b> SSH</b><br/>Remote Access</td>
+    <td align="center"><b> Git</b><br/>Version Control</td>
+    <td align="center"><b> Autonomy</b><br/>Long-Term Goal</td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Product Engineering
+##  Product Engineering
 
 I enjoy moving from **problem → architecture → implementation → validation → usable product**.
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>📖 Iqra</h3>
+      <h3> Iqra</h3>
       Quran learning platform<br/>
       <br/>
       Flutter · Firebase<br/>
       AI-assisted learning
     </td>
     <td align="center" width="33%">
-      <h3>🌐 VibeLoop</h3>
+      <h3> VibeLoop</h3>
       Real-time co-watching platform<br/>
       <br/>
       WebSockets · WebRTC<br/>
       Supabase · Payments
     </td>
     <td align="center" width="33%">
-      <h3>💳 Kifuko</h3>
+      <h3> Kifuko</h3>
       Live social FinTech platform<br/>
       <br/>
       Flutter · Supabase<br/>
@@ -434,21 +434,21 @@ I enjoy moving from **problem → architecture → implementation → validation
 
   <tr>
     <td align="center" width="33%">
-      <h3>🎓 Ayglobe</h3>
+      <h3> Ayglobe</h3>
       Student-first digital platform<br/>
       <br/>
       Learning · Marketplace<br/>
       Jobs · AI · Payments
     </td>
     <td align="center" width="33%">
-      <h3>🤖 MKU Robotics</h3>
+      <h3> MKU Robotics</h3>
       Humanoid robotics engineering<br/>
       <br/>
       Ubuntu · ROS 2 · Jetson<br/>
       Systems Reverse Engineering
     </td>
     <td align="center" width="33%">
-      <h3>🔬 Edge AI</h3>
+      <h3> Edge AI</h3>
       Applied intelligent systems<br/>
       <br/>
       TinyML · Embedded AI<br/>
@@ -459,7 +459,7 @@ I enjoy moving from **problem → architecture → implementation → validation
 
 ---
 
-## 🔬 Research & Applied Engineering
+##  Research & Applied Engineering
 
 My research interests sit at the intersection of **AI, embedded systems, sensing, and real-world constraints**.
 
@@ -479,17 +479,17 @@ I am particularly interested in engineering systems that can operate effectively
 
 ---
 
-## 🔧 Development Workflow
+##  Development Workflow
 
 <table align="center">
   <tr>
-    <td align="center"><b>🔍 Investigate</b><br/>Understand the problem</td>
+    <td align="center"><b> Investigate</b><br/>Understand the problem</td>
     <td align="center">→</td>
-    <td align="center"><b>🗺️ Map</b><br/>Understand the system</td>
+    <td align="center"><b> Map</b><br/>Understand the system</td>
     <td align="center">→</td>
-    <td align="center"><b>🧩 Isolate</b><br/>Reduce complexity</td>
+    <td align="center"><b> Isolate</b><br/>Reduce complexity</td>
     <td align="center">→</td>
-    <td align="center"><b>🧪 Validate</b><br/>Test assumptions</td>
+    <td align="center"><b> Validate</b><br/>Test assumptions</td>
   </tr>
   <tr>
     <td align="center">↓</td>
@@ -501,19 +501,19 @@ I am particularly interested in engineering systems that can operate effectively
     <td align="center">↓</td>
   </tr>
   <tr>
-    <td align="center"><b>🔨 Build</b><br/>Implement</td>
+    <td align="center"><b> Build</b><br/>Implement</td>
     <td align="center">→</td>
-    <td align="center"><b>🔗 Integrate</b><br/>Connect components</td>
+    <td align="center"><b> Integrate</b><br/>Connect components</td>
     <td align="center">→</td>
-    <td align="center"><b>⚙️ Automate</b><br/>Remove repetition</td>
+    <td align="center"><b> Automate</b><br/>Remove repetition</td>
     <td align="center">→</td>
-    <td align="center"><b>📈 Improve</b><br/>Measure & iterate</td>
+    <td align="center"><b> Improve</b><br/>Measure & iterate</td>
   </tr>
 </table>
 
 ---
 
-## 🛡️ Engineering Principles I Live By
+##  Engineering Principles I Live By
 
 > **Understand Before Changing**
 > I investigate system behavior, dependencies, interfaces and failure modes before making significant changes.
@@ -541,39 +541,39 @@ I am particularly interested in engineering systems that can operate effectively
 
 ---
 
-## 📚 Continuous Learning
+##  Continuous Learning
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <b>🐧 Systems</b><br/>
+      <b> Systems</b><br/>
       Linux · Ubuntu · Networking<br/>
       Shell · Infrastructure
     </td>
     <td align="center" width="33%">
-      <b>🤖 Robotics</b><br/>
+      <b> Robotics</b><br/>
       ROS 2 · Middleware · Perception<br/>
       Autonomous Systems
     </td>
     <td align="center" width="33%">
-      <b>🧠 AI</b><br/>
+      <b> AI</b><br/>
       ML · GenAI · Computer Vision<br/>
       Edge AI
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>💻 Software Engineering</b><br/>
+      <b> Software Engineering</b><br/>
       Architecture · Algorithms<br/>
       Debugging · Testing
     </td>
     <td align="center">
-      <b>🌐 Distributed Systems</b><br/>
+      <b> Distributed Systems</b><br/>
       APIs · WebSockets<br/>
       Real-Time Communication
     </td>
     <td align="center">
-      <b>🔐 Security</b><br/>
+      <b> Security</b><br/>
       Authentication · Authorization<br/>
       Secure Application Design
     </td>
@@ -582,7 +582,7 @@ I am particularly interested in engineering systems that can operate effectively
 
 ---
 
-## 🗂️ GitHub Philosophy
+##  GitHub Philosophy
 
 My GitHub is intended to be more than a portfolio.
 
@@ -637,22 +637,22 @@ It is a working record of:
 
 ---
 
-## 🌍 Open Source & Collaboration
+##  Open Source & Collaboration
 
 I'm interested in collaborating on technically meaningful projects involving:
 
 <table align="center">
   <tr>
-    <td align="center">🤖 Robotics</td>
-    <td align="center">🧠 Artificial Intelligence</td>
-    <td align="center">💻 Software Engineering</td>
-    <td align="center">🌐 Distributed Systems</td>
+    <td align="center"> Robotics</td>
+    <td align="center"> Artificial Intelligence</td>
+    <td align="center"> Software Engineering</td>
+    <td align="center"> Distributed Systems</td>
   </tr>
   <tr>
-    <td align="center">🔬 Research</td>
-    <td align="center">📱 Mobile & Web</td>
-    <td align="center">💳 FinTech</td>
-    <td align="center">🎓 EdTech</td>
+    <td align="center"> Research</td>
+    <td align="center"> Mobile & Web</td>
+    <td align="center"> FinTech</td>
+    <td align="center"> EdTech</td>
   </tr>
 </table>
 
@@ -660,7 +660,7 @@ I value collaboration built around **technical curiosity, clear communication, r
 
 ---
 
-## 🎯 Current Direction
+##  Current Direction
 
 <table align="center">
   <tr>
@@ -699,14 +699,14 @@ I value collaboration built around **technical curiosity, clear communication, r
 
 ---
 
-## 📌 Professional Snapshot
+##  Professional Snapshot
 
 <table align="center">
   <tr>
-    <td align="center"><b>💻 Primary</b><br/>Full-Stack Engineering</td>
-    <td align="center"><b>🧠 Focus</b><br/>AI & Intelligent Systems</td>
-    <td align="center"><b>🤖 Emerging</b><br/>Robotics & Autonomy</td>
-    <td align="center"><b>🔬 Interest</b><br/>Applied Research</td>
+    <td align="center"><b> Primary</b><br/>Full-Stack Engineering</td>
+    <td align="center"><b> Focus</b><br/>AI & Intelligent Systems</td>
+    <td align="center"><b> Emerging</b><br/>Robotics & Autonomy</td>
+    <td align="center"><b> Interest</b><br/>Applied Research</td>
   </tr>
 </table>
 
