@@ -47,7 +47,7 @@ GitHub: Ayman-muhammad
 
 ---
 
-## 🧭 Engineering Identity
+##  Engineering Identity
 
 <table align="center">
   <tr>
@@ -58,19 +58,19 @@ GitHub: Ayman-muhammad
       APIs · Real-Time Systems
     </td>
     <td align="center" width="25%">
-      <h3>🧠</h3>
+      <h3></h3>
       <b>Artificial Intelligence</b><br/>
       GenAI · RAG · NLP<br/>
       Computer Vision · Edge AI
     </td>
     <td align="center" width="25%">
-      <h3>🤖</h3>
+      <h3></h3>
       <b>Robotics</b><br/>
       Linux · ROS 2 · Jetson<br/>
       Perception · Autonomy
     </td>
     <td align="center" width="25%">
-      <h3>🌐</h3>
+      <h3></h3>
       <b>Systems Engineering</b><br/>
       Networking · Distributed Systems<br/>
       Architecture · Automation
@@ -97,7 +97,7 @@ I approach complex engineering problems through a combination of **architecture,
 
 ---
 
-## 📊 Analytics and Activity Flow
+##  Analytics and Activity Flow
 
 <table align="center">
   <tr>
@@ -141,7 +141,7 @@ I approach complex engineering problems through a combination of **architecture,
 
 ---
 
-## 🛠️ My Favorite Tools and Technologies
+##  My Favorite Tools and Technologies
 
 <table align="center">
   <tr>
@@ -259,7 +259,7 @@ I approach complex engineering problems through a combination of **architecture,
 
 ---
 
-## 🏗️ Architecture & Systems Thinking
+##  Architecture & Systems Thinking
 
 I treat software as a system of interacting components rather than a collection of isolated files.
 
@@ -306,7 +306,7 @@ I treat software as a system of interacting components rather than a collection 
 
 ---
 
-## 🧠 AI Engineering
+##  AI Engineering
 
 My interest in AI is focused on **integrating intelligence into complete products and systems**, rather than treating machine learning models as isolated experiments.
 
